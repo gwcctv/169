@@ -19,7 +19,4 @@ jobs:
           extensions: curl # Ensure cURL extension is enabled
 
       - name: Run PHP script
-        run: php huoqu.php > output.txt
-
-      - name: hhhh
-        run: cat output.txt
+        run: php huoqu.php
