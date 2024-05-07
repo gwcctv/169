@@ -1,0 +1,25 @@
+name: Run Script Every 3 Minutes
+
+on:
+  schedule:
+    - cron: '*/3 * * * *' # Run every 3 minutes
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up PHP environment
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.0'
+          extensions: curl # Ensure cURL extension is enabled
+
+      - name: Run PHP script
+        run: php huoqu.php > output.txt
+
+      - name: hhhh
+        run: cat output.txt
