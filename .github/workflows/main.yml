@@ -25,5 +25,4 @@ jobs:
         run: cat output.txt
 
       - name: Save output to file
-        run: |
-         cat output.txt > 123.txt
+        run: cat output.txt > 123.txt
