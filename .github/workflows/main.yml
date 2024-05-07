@@ -15,8 +15,8 @@ jobs:
       - name: Set up PHP environment
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.0'
+          php-version: '7.0'
           extensions: curl # Ensure cURL extension is enabled
 
       - name: Run PHP script
-        run: php huoqu.php
+        run: php huoqu.php > output.txt
