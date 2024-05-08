@@ -2,7 +2,7 @@ name: Get Workflow Logs
 
 on:
   workflow_run:
-    workflows: ["Run PHP script"]
+    workflows: ["Run Script Every 3 Minutes"]
     types:
       - completed
 
