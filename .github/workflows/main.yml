@@ -21,8 +21,8 @@ jobs:
       - name: Run PHP script
         run: php huoqu.php
         
-      - name: Upload output.txt as artifact
+      - name: Save output as artifact
         uses: actions/upload-artifact@v3
         with:
-         name: php-output
-         path: output.txt
+          name: php-output
+          path: output.txt
