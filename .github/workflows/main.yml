@@ -19,10 +19,4 @@ jobs:
           extensions: curl # Ensure cURL extension is enabled
           
       - name: Run PHP script
-        run: php huoqu.php
-        
-      - name: Save output as artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: php-output
-          path: output.txt
+        run: php huoqu.php > output.txt
