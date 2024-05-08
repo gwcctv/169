@@ -18,11 +18,12 @@ jobs:
           php-version: '8.0'
           extensions: curl # Ensure cURL extension is enabled
           
-      - name: Set permissions for output.txt
-        run: chmod 777 output.txt
-        
       - name: Run PHP script
         run: php huoqu.php
+        
+      - name: Set permissions for output.txt
+        run: chmod 777 output.txt
+        if: success() # 仅在前面的步骤成功运行时执行
         
       - name: Save output as artifact
         uses: actions/upload-artifact@v3
