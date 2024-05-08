@@ -23,7 +23,6 @@ jobs:
         
       - name: Set permissions for output.txt
         run: chmod 777 output.txt
-        if: success() # 仅在前面的步骤成功运行时执行
         
       - name: Save output as artifact
         uses: actions/upload-artifact@v3
