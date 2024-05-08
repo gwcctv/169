@@ -17,8 +17,10 @@ $body = array(
     "deviceid" => $deviceId,
     "ip" => $Ip,
     "app_name" => "Focus TV",
-    "package_name" => "com.newtvbaichuan.iptv",    
-    "token" => "ADA8bC27b3E03AB57E2E15DA9eb8C9",
+    "package_name" => "com.newtvbaichuan.iptv",
+    
+
+   "token" => "ADA8bC27b3E03AB57E2E15DA9eb8C9",
     "province" => ""
 );
 $b = gzcompress(json_encode($body, true));
@@ -30,7 +32,7 @@ $json = json_decode(gzuncompress($str), true);
 file_put_contents("orginal.txt", json_encode($json, 64 | 128 | 256));
 
 $cate = $json['data'];
-$fp = fopen("output.txt", "w"); // 打开 output.txt 文件句柄
+$fp = fopen("iptv.txt", "w");
 $txt = "";
 foreach ($cate as $ct) {
     if ($ct == '收藏') continue;
@@ -42,11 +44,9 @@ foreach ($cate as $ct) {
         $txt = $txt . $name . "," . $url . "\n";
     }
 }
-fwrite($fp, $txt); // 将 $txt 写入 output.txt 文件
-fclose($fp); // 关闭文件句柄
-
-// echo $txt; // 注释掉或删除该行
-
+fwrite($fp, $txt);
+fclose($fp);
+echo $txt;
 exit();
 
 
