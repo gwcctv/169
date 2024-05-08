@@ -11,20 +11,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          ref: v2 # 使用 actions/checkout@v2 最新版本
 
       - name: Set up PHP environment
-        uses: shivammathur/setup-php@v3 # 更新为支持 Node.js 20 的版本
+        uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.0'
+          php-version: '8.1'
           extensions: curl # Ensure cURL extension is enabled
-          
+
       - name: Run PHP script
         run: php huoqu.php
-        
-      - name: Upload output.txt as artifact
-        uses: actions/upload-artifact@v4 # 更新为支持 Node.js 20 的版本
-        with:
-          name: php-output
-          path: output.txt
