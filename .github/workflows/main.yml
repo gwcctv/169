@@ -22,7 +22,7 @@ jobs:
         run: php huoqu.php
         
       - name: Set permissions for output.txt
-        run: chmod 777 output.txt
+        run: chmod 666 output.txt
         
       - name: Save output as artifact
         uses: actions/upload-artifact@v3
