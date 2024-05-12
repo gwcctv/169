@@ -1,0 +1,28 @@
+name: Fetch Huya Streams
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # 定时执行，每3小时执行一次
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.0'
+
+      - name: Run PHP script to fetch Huya streams
+        run: |
+          php fetch_huya_streams.php > huya_streams.txt
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: huya-streams
+          path: huya_streams.txt
