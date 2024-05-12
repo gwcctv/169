@@ -1,8 +1,8 @@
-name: Fetch Huya Streams
+name: Fetch IPTV Streams
 
 on:
   schedule:
-    - cron: '*/3 * * * *' #  3 分钟定时执行一次
+    - cron: '*/3 * * * *'  # 每3分钟执行一次
 
 jobs:
   fetch:
@@ -12,17 +12,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up PHP
-        uses: shivammathur/setup-php@v2
+      - name: Set up Bash
+        uses: actions/setup-node@v2
         with:
-          php-version: '8.0'
+          node-version: '14'
 
-      - name: Run PHP script to fetch Huya streams
+      - name: Install jq
+        run: sudo apt-get install jq -y
+
+      - name: Run Bash script to fetch IPTV streams
         run: |
-          php fetch_huya_streams.php > huya_streams.txt
+          bash fetch_iptv_streams.sh > iptv_streams.txt
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: huya-streams
-          path: huya_streams.txt
+          name: iptv-streams
+          path: iptv_streams.txt
