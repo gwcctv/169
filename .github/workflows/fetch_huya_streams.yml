@@ -2,7 +2,7 @@ name: Fetch Huya Streams
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # 定时执行，每3小时执行一次
+    - cron: '*/3 * * * *' #  3 分钟定时执行一次
 
 jobs:
   fetch:
