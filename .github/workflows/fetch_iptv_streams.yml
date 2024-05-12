@@ -12,17 +12,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up Bash
-        uses: actions/setup-node@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          node-version: '14'
+          python-version: '3.x'
 
-      - name: Install jq
-        run: sudo apt-get install jq -y
-
-      - name: Run Bash script to fetch IPTV streams
+      - name: Install dependencies
         run: |
-          bash fetch_iptv_streams.sh > iptv_streams.txt
+          python -m pip install --upgrade pip
+          python -m pip install requests cryptography
+
+      - name: Run Python script to fetch IPTV streams
+        run: python fetch_iptv_streams.py > iptv_streams.txt
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v2
