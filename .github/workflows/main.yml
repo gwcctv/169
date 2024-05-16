@@ -1,10 +1,11 @@
-name: Run Script and Save Output
+name: PHP Script Execution
 
 on:
-  push: # 可以在push事件时运行，或者根据需要选择其他事件
+  push:
+    branches: [ main ]
 
 jobs:
-  run_script:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,17 +19,16 @@ jobs:
           extensions: curl, dom, mbstring, xml # 根据您的脚本需要添加扩展
           coverage: none
 
-      - name: Install Composer dependencies
+      - name: Run PHP script and capture output
         run: |
-          composer install --no-interaction --no-progress --optimize-autoloader
+          php huoqu.php > output.txt 2> error.txt
+          cat output.txt || echo "Output file is empty."
+          cat error.txt || echo "No error output."
 
-      - name: Run PHP script and save output
-        run: |
-          php huoqu.php > output.txt
-          cat output.txt # 仅在调试时使用，否则可以移除
-
-      - name: Upload output file
+      - name: Upload output and error files
         uses: actions/upload-artifact@v2
         with:
-          name: output-file
-          path: output.txt
+          name: script-output
+          path: |
+            output.txt
+            error.txt
