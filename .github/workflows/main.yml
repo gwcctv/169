@@ -15,9 +15,15 @@ jobs:
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '7.4' # 根据您的需要调整PHP版本
-          extensions: curl, dom, mbstring, xml # 根据您的脚本需要添加扩展
+          php-version: '7.4'
+          extensions: curl, dom, mbstring, xml
           coverage: none
+
+      # 添加步骤以创建空文件
+      - name: Create empty output and error files
+        run: |
+          touch output.txt
+          touch error.txt
 
       - name: Run PHP script and capture output
         run: |
