@@ -1,4 +1,4 @@
-name: PHP Script Execution Every 3 Minutes
+name: PHP Script
 
 on:
   schedule:
@@ -20,20 +20,26 @@ jobs:
           extensions: curl, dom, mbstring, xml
           coverage: none
 
+      # 创建输出文件夹
+      - name: Create output directory
+        run: mkdir -p iptv
+
       # 创建一个步骤来运行PHP脚本，并捕获输出
       - name: Run PHP script and capture output
         run: |
-          # 运行您的PHP脚本
-          php huoqu.php > output.txt 2
+          # 运行您的PHP脚本并捕获输出和错误到相应文件
+          php huoqu.php > iptv/output.txt 2>&1
           
           # 检查输出文件是否为空，并打印相应的消息
-          cat output.txt || echo "Output file is empty."
-          cat error.txt || echo "No error output."
+          if [ -s iptv/output.txt ]; then
+            echo "Output file is not empty."
+          else
+            echo "Output file is empty."
+          fi
 
-      # 上传输出和错误文件作为构建产物
-      - name: Upload output and error files
+      # 上传输出文件作为构建产物
+      - name: Upload output file
         uses: actions/upload-artifact@v2
         with:
           name: script-output
-          path: |
-            output.txt
+          path: iptv/output.txt
