@@ -1,8 +1,9 @@
-name: PHP Script Execution
+name: PHP Script Execution Every 3 Minutes
 
 on:
-  push:
-    branches: [ main ]
+  schedule:
+    # 这是一个cron表达式，表示每3分钟运行一次
+    - cron: '*/3 * * * *'
 
 jobs:
   build:
@@ -19,22 +20,20 @@ jobs:
           extensions: curl, dom, mbstring, xml
           coverage: none
 
-      # 添加步骤以创建空文件
-      - name: Create empty output and error files
-        run: |
-          touch output.txt
-          touch error.txt
-
+      # 创建一个步骤来运行PHP脚本，并捕获输出
       - name: Run PHP script and capture output
         run: |
-          php huoqu.php > output.txt 2> error.txt
+          # 运行您的PHP脚本
+          php huoqu.php > output.txt 2
+          
+          # 检查输出文件是否为空，并打印相应的消息
           cat output.txt || echo "Output file is empty."
           cat error.txt || echo "No error output."
 
+      # 上传输出和错误文件作为构建产物
       - name: Upload output and error files
         uses: actions/upload-artifact@v2
         with:
           name: script-output
           path: |
             output.txt
-            error.txt
