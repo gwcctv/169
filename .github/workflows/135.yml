@@ -1,20 +1,13 @@
-name: SO-023 Create folder
+name: Run Shell Script Example
 
-on:
-  push:
-    branches: [ main ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+on: [push]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Create folder
-        run: |
-          mkdir -p myNewFolder/myNewSubFolder && cp -R dist myNewFolder/myNewSubFolder
-          ls myNewFolder/MyNewSubFolder
-          
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Run shell script to create folder
+      run: ./create_folder.sh
