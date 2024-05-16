@@ -1,18 +1,20 @@
-name: Create Folder and File
- 
+name: Test Server Build and Deploy (CD)
+
 on:
   push:
- 
+    branches:
+        - cd_branch
+
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
- 
-    steps:
-    - uses: actions/checkout@v2
- 
-    - name: Create a folder
-      run: mkdir my_folder
- 
-    - name: Create a file and write to it
-      run: |
-        echo "123" > my_folder/my_file.txt
+    env: 
+        MY_APP_ENV_VARIABLE:  ${{ secrets.ENV_VARIABLE}}
+
+steps:
+        - uses: actions/checkout@v2
+        - uses: actions/setup-node@v2
+          with:
+              node-version: '14.15.4'
+        - run: npm cache clean --force
+        - run: npm run copy-script
