@@ -11,7 +11,7 @@ $Ip = json_decode(curl_get("http://g3.le.com/r?format=1"), true)['host'];
 $getIp = curl_post($url, "getIP=" . $deviceId);
 
 $body = array(
-    "mac" => "5b8a4c0r",
+    "mac" => "5b8a4c0q",
     "model" => "HD1910",
     "androidid" => "775D2672A66CC2BF37676E9999510BA7",
     "deviceid" => $deviceId,
