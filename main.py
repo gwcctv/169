@@ -5,6 +5,7 @@ from datetime import datetime
 
 # 定义要访问的多个URL
 urls = [
+    'https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u',
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
     'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #每天自动更新1次
     'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
