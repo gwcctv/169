@@ -204,4 +204,12 @@ try:
     with open(output_file, 'w', encoding='utf-8') as f:
         for line in all_lines:
             f.write(line + '\n')
-    print(f"合并后的文本已保存到文件
+    print(f"合并后的文本已保存到文件: {output_file}")
+
+    with open(others_file, 'w', encoding='utf-8') as f:
+        for line in other_lines:
+            f.write(line + '\n')
+    print(f"Others已保存到文件: {others_file}")
+
+except Exception as e:
+    print(f"保存文件时发生错误：{e}")
