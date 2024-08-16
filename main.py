@@ -164,7 +164,7 @@ version = datetime.now().strftime("%Y%m%d") + ",http://39.135.138.59:18890/PLTV/
 
 # 根据内容生成 all_lines，只包含有内容的分类
 all_lines = ["更新时间,#genre#"] + [version] + ['\n']
-other_lines = ["更新时间,#genre#"] + [version] + ['\n']
+
 if sh_lines:
     all_lines += ["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n']
 if ys_lines:
