@@ -160,7 +160,7 @@ def custom_sort(s):
     else:
         return 0
 
-version = datetime.now().strftime("%Y%m%d") + ",url"
+version = datetime.now().strftime("%Y%m%d") + ",http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8"
 
 # 根据内容生成 all_lines，只包含有内容的分类
 all_lines = ["更新时间,#genre#"] + [version] + ['\n']
