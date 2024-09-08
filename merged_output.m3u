@@ -1,970 +1,970 @@
 #EXTM3U
-#EXTINF:-1 group-title="更新时间",20240907
+#EXTINF:-1 group-title="更新时间",20240908
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1
-http://222.241.154.37:9901/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://36.46.99.76:8020/rtp/239.109.205.118:8880$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-1
-http://111.167.224.68:8888/rtp/225.1.1.120:5002$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://106.42.108.200:2000/rtp/239.16.10.1:2000$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://220.164.3.169:4022/rtp/239.200.201.135:8880$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://175.0.95.242:9000/rtp/239.76.253.151:9000$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://119.39.97.2:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://118.79.114.96:6000/rtp/226.0.1.157:3086$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://183.188.28.71:6001/rtp/226.0.1.157:3086$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://114.91.25.0:10010/rtp/239.45.3.145:5140$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://180.102.253.251:8000/rtp/239.49.8.19:9614$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://110.241.188.219:808/hls/1/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://49.75.158.51:4022/rtp/239.49.8.19:9614$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://117.86.120.211:8888/rtp/239.49.8.19:9614$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://xuys.top:8888/rtp/225.1.1.120:5002$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+http://121.230.183.28:8888/rtp/239.49.8.19:9614$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://101.81.79.240:8881/rtp/239.45.3.145:5140$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://14.135.72.93:8888/rtp/239.121.4.113:8636$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://117.82.87.250:8888/rtp/239.49.8.19:9614$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://124.228.160.169:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1
+http://222.68.72.9:5555/rtp/239.45.3.145:5140$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://36.47.83.11:8020/rtp/239.109.205.118:8880$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://106.111.74.38:10001/rtp/239.49.8.19:9614$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://117.86.120.211:8888/rtp/239.49.8.19:9614$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://120.10.101.13:4000/rtp/239.253.92.83:8012$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://117.32.85.74:8020/rtp/239.109.205.118:8880$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://114.91.25.0:10010/rtp/239.45.3.145:5140$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-1
 rtp://239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV-1
-http://36.46.99.181:8010/rtp/239.109.205.118:8880$1920x1080
+http://219.145.19.55:5555/rtp/239.109.205.118:8880$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://222.241.154.37:9901/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://114.222.62.76:7777/rtp/239.49.8.19:9614$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://110.241.188.219:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://117.32.84.221:8020/rtp/239.109.205.118:8880$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://119.39.97.2:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://111.167.224.68:8888/rtp/225.1.1.120:5002$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://121.233.165.235:8800/rtp/239.49.8.19:9614$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://58.41.2.83:8880/rtp/239.45.3.145:5140$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-2
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://106.59.3.3:55555/rtp/239.200.200.104:8084
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://enlen.vip:4022/rtp/239.200.200.1:8004
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://220.164.3.169:4022/rtp/239.200.200.104:8084
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://220.164.3.48:4022/rtp/239.200.200.104:8084
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://106.59.2.162:55555/rtp/239.200.200.104:8084
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://124.228.160.169:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://106.57.0.89:55555/rtp/239.200.200.1:8004
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://106.59.3.3:55555/rtp/239.200.200.1:8004
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://106.57.1.93:55555/rtp/239.200.200.1:8004
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://106.57.0.127:55555/rtp/239.200.200.104:8084
+http://60.26.3.7:7000/rtp/225.1.1.133:5002
 #EXTINF:-1 group-title="央视频道",CCTV-2
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
-rtp://239.3.1.60:8084
-#EXTINF:-1 group-title="央视频道",CCTV-2
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+http://60.26.61.132:8000/rtp/225.1.1.133:5002
 #EXTINF:-1 group-title="央视频道",CCTV-2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
-http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://220.164.3.169:4022/rtp/239.200.200.1:8004
+http://111.167.66.81:4022/rtp/225.1.1.133:5002
 #EXTINF:-1 group-title="央视频道",CCTV-2
 http://106.59.3.147:55555/rtp/239.200.200.104:8084$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-2
+http://enlen.vip:4022/rtp/239.200.200.104:8084$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://60.26.2.125:7000/rtp/225.1.1.133:5002
+#EXTINF:-1 group-title="央视频道",CCTV-2
+rtp://239.3.1.60:8084
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://125.36.77.20:8888/rtp/225.1.1.133:5002
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://117.13.24.81:8888/rtp/225.1.1.133:5002
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://125.37.57.186:18888/rtp/225.1.1.133:5002
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://111.167.225.202:8888/rtp/225.1.1.133:5002
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://111.167.224.68:8888/rtp/225.1.1.133:5002
+#EXTINF:-1 group-title="央视频道",CCTV-2
 https://cntv.lat/tv/live.php?auth=231110&id=cctv2$1280x720
 #EXTINF:-1 group-title="央视频道",CCTV-2
-http://106.57.0.89:55555/rtp/239.200.200.104:8084
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://106.57.1.93:55555/rtp/239.200.200.104:8084
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://enlen.vip:4022/rtp/239.200.200.104:8084
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
 http://121.24.98.21:8090/hls/10/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://124.228.160.169:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://111.166.52.200:4022/rtp/225.1.1.133:5002
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://111.162.207.19:8686/rtp/225.1.1.133:5002
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://117.9.169.233:8888/rtp/225.1.1.133:5002
 #EXTINF:-1 group-title="央视频道",CCTV-3
-http://106.57.0.127:55555/rtp/239.200.200.18:9008
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://220.164.3.169:4022/rtp/239.200.200.76:9004
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://106.59.3.3:55555/rtp/239.200.200.18:9008
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://106.57.1.93:55555/rtp/239.200.200.76:9004
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://enlen.vip:4022/rtp/239.200.200.76:9004
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://106.59.2.162:55555/rtp/239.200.200.76:9004
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://220.164.3.169:4022/rtp/239.200.200.18:9008
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://121.24.98.21:8090/hls/11/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://106.57.1.93:55555/rtp/239.200.200.18:9008
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://enlen.vip:4022/rtp/239.200.200.18:9008
+http://111.166.52.200:4022/rtp/225.1.1.158:5002
 #EXTINF:-1 group-title="央视频道",CCTV-3
 http://223.242.147.119:4022/rtp/238.1.78.170:7232$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-3
-http://106.57.0.89:55555/rtp/239.200.200.18:9008
+http://125.36.77.20:8888/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://111.167.66.81:4022/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://218.68.52.22:8888/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://111.167.225.202:8888/rtp/225.1.1.158:5002
 #EXTINF:-1 group-title="央视频道",CCTV-3
 http://119.39.97.2:9002/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-3
-http://106.57.0.89:55555/rtp/239.200.200.76:9004
-#EXTINF:-1 group-title="央视频道",CCTV-3
-rtp://239.3.1.172:8001
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://106.59.3.3:55555/rtp/239.200.200.76:9004
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://220.164.3.48:4022/rtp/239.200.200.18:9008
+http://enlen.vip:4022/rtp/239.200.200.18:9008$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-3
 http://124.228.160.169:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-3
-http://106.59.2.162:55555/rtp/239.200.200.18:9008
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://enlen.vip:4022/rtp/239.200.200.128:8652
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://220.164.3.48:4022/rtp/239.200.200.128:8652
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://106.57.0.89:55555/rtp/239.200.200.19:8216
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://enlen.vip:4022/rtp/239.200.200.19:8216
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://106.57.0.89:55555/rtp/239.200.200.128:8652
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://106.57.1.93:55555/rtp/239.200.200.128:8652
-#EXTINF:-1 group-title="央视频道",CCTV-4
-rtp://239.3.1.105:8092
+http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://60.26.61.132:8000/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://60.26.2.125:7000/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://60.26.3.7:7000/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://121.24.98.21:8090/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://111.167.224.68:8888/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://117.9.169.233:8888/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-3
+rtp://239.3.1.172:8001
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://117.13.24.81:8888/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://111.162.207.19:8686/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://125.37.57.186:18888/rtp/225.1.1.158:5002
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4
 http://enlen.vip:4022/rtp/239.200.200.128:8652$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://106.59.3.3:55555/rtp/239.200.200.128:8652
+http://111.167.66.81:4022/rtp/225.1.1.150:5002
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://106.57.0.127:55555/rtp/239.200.200.128:8652
+http://111.162.207.19:8686/rtp/225.1.1.150:5002
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://220.164.3.169:4022/rtp/239.200.200.19:8216
+http://111.167.224.68:8888/rtp/225.1.1.150:5002
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://220.164.3.169:4022/rtp/239.200.200.128:8652
+http://111.167.225.202:8888/rtp/225.1.1.150:5002
 #EXTINF:-1 group-title="央视频道",CCTV-4
 http://124.228.160.169:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://106.59.2.162:55555/rtp/239.200.200.128:8652
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://106.59.3.3:55555/rtp/239.200.200.19:8216
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://106.57.1.93:55555/rtp/239.200.200.19:8216
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://220.164.3.169:4022/rtp/239.200.200.128:8652$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-4
 http://222.241.154.37:9901/tsfile/live/23004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://111.166.52.200:4022/rtp/225.1.1.150:5002
 #EXTINF:-1 group-title="央视频道",CCTV-4
 http://121.24.98.21:8090/hls/12/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4
+rtp://239.3.1.105:8092
+#EXTINF:-1 group-title="央视频道",CCTV-4
 http://119.39.97.2:9002/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://139.170.105.53:8000/rtp/239.120.1.245:9428
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://60.26.61.132:8000/rtp/225.1.1.150:5002
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://218.68.52.22:8888/rtp/225.1.1.150:5002
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://117.13.24.81:8888/rtp/225.1.1.150:5002
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://60.26.3.7:7000/rtp/225.1.1.150:5002
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://60.26.62.9:8000/rtp/225.1.1.150:5002
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://117.9.169.233:8888/rtp/225.1.1.150:5002
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://60.26.2.125:7000/rtp/225.1.1.150:5002
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://125.36.77.20:8888/rtp/225.1.1.150:5002
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://125.37.57.186:18888/rtp/225.1.1.150:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://220.164.3.169:4022/rtp/239.200.201.5:4120$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://139.170.105.53:8000/rtp/239.120.2.59:5141
+http://60.26.3.7:7000/rtp/225.1.1.170:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://106.57.0.89:55555/rtp/239.200.201.81:4120
+http://60.26.2.125:7000/rtp/225.1.1.170:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://106.57.0.127:55555/rtp/239.200.201.5:4120
+http://60.26.62.9:8000/rtp/225.1.1.170:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5+
-http://36.101.1.79:554/rtp/239.253.64.100:5140
+http://60.26.61.132:8000/rtp/225.1.1.121:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5+
-http://139.170.104.119:8000/rtp/239.120.2.59:5141
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://223.199.133.247:33333/rtp/239.253.64.100:5140
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://112.67.46.176:8686/rtp/239.253.64.100:5140
+http://117.9.169.233:8888/rtp/225.1.1.121:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://106.59.2.162:55555/rtp/239.200.201.5:4120
+http://111.167.225.202:8888/rtp/225.1.1.170:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5+
-http://119.41.35.78:4000/rtp/239.253.64.100:5140
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://111.166.52.200:4022/rtp/225.1.1.121:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://125.36.77.20:8888/rtp/225.1.1.121:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://117.13.24.81:8888/rtp/225.1.1.170:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://218.68.52.22:8888/rtp/225.1.1.121:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://218.68.52.22:8888/rtp/225.1.1.170:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://139.170.104.158:8000/rtp/239.120.2.59:5141$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://139.170.105.243:8000/rtp/239.120.1.245:9428
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://106.57.0.89:55555/rtp/239.200.201.5:4120
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://124.165.251.82:9999/tsfile/live/0019_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://124.228.160.169:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://106.59.3.147:55555/rtp/239.200.201.5:4120$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://223.199.149.203:2222/rtp/239.253.64.100:5140
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://222.241.154.37:9901/tsfile/live/23005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://220.164.3.169:4022/rtp/239.200.201.81:4120$720x576
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://139.170.104.119:8000/rtp/239.120.1.245:9428
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://106.57.1.93:55555/rtp/239.200.201.81:4120
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://139.170.104.158:8000/rtp/239.120.2.59:5141
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://139.170.104.158:8000/rtp/239.120.1.245:9428
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://106.57.1.93:55555/rtp/239.200.201.5:4120
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://enlen.vip:4022/rtp/239.200.201.5:4120
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://110.241.188.219:808/hls/5/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5
 rtp://239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://124.228.160.169:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://220.164.3.169:4022/rtp/239.200.201.5:4120
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://106.59.3.3:55555/rtp/239.200.201.5:4120
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://112.67.42.137:8686/rtp/239.253.64.100:5140
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://119.39.97.2:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-5+
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://125.37.57.186:18888/rtp/225.1.1.170:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5
 http://enlen.vip:4022/rtp/239.200.201.5:4120$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://111.167.225.202:8888/rtp/225.1.1.121:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://220.164.3.48:4022/rtp/239.200.201.5:4120
+http://222.241.154.37:9901/tsfile/live/23005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://60.26.3.7:7000/rtp/225.1.1.121:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://220.164.3.169:4022/rtp/239.200.201.81:4120
+http://111.167.224.68:8888/rtp/225.1.1.170:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://111.167.66.81:4022/rtp/225.1.1.170:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://111.166.52.200:4022/rtp/225.1.1.170:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://111.162.207.19:8686/rtp/225.1.1.170:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://60.26.61.132:8000/rtp/225.1.1.170:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5+
 http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+
-http://139.170.105.243:8000/rtp/239.120.2.59:5141
+http://117.13.24.81:8888/rtp/225.1.1.121:5002
 #EXTINF:-1 group-title="央视频道",CCTV-5+
-http://223.199.148.210:2222/rtp/239.253.64.100:5140
+http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://139.170.104.158:8000/rtp/239.120.1.245:9428$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://119.39.97.2:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://124.228.160.169:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://60.26.2.125:7000/rtp/225.1.1.121:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://110.241.188.219:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://111.167.66.81:4022/rtp/225.1.1.121:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://125.36.77.20:8888/rtp/225.1.1.170:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://125.37.57.186:18888/rtp/225.1.1.121:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://117.9.169.233:8888/rtp/225.1.1.170:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://124.228.160.169:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://111.167.224.68:8888/rtp/225.1.1.121:5002
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://124.165.251.82:9999/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://111.162.207.19:8686/rtp/225.1.1.121:5002
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://106.59.2.162:55555/rtp/239.200.200.21:9020
+http://117.9.169.233:8888/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6
-rtp://239.3.1.174:8001
-#EXTINF:-1 group-title="央视频道",CCTV-6
-http://106.59.3.147:55555/rtp/239.200.200.21:9020$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-6
-http://110.241.188.219:808/hls/6/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6
-http://139.170.104.158:8000/rtp/239.120.1.49:8252
+http://125.37.57.186:18888/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV-6
 http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://139.170.104.158:8000/rtp/239.120.2.38:5141
+http://222.241.154.37:9901/tsfile/live/23006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://139.170.105.53:8000/rtp/239.120.1.49:8252
+http://111.162.207.19:8686/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://106.57.0.127:55555/rtp/239.200.200.21:9020
+http://139.170.104.158:8000/rtp/239.120.1.49:8252$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+http://enlen.vip:4022/rtp/239.200.200.21:9020$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-6
+http://111.167.66.81:4022/rtp/225.1.1.195:5002
+#EXTINF:-1 group-title="央视频道",CCTV-6
+http://111.167.224.68:8888/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV-6
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://enlen.vip:4022/rtp/239.200.200.21:9020
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://106.57.1.93:55555/rtp/239.200.200.21:9020
+http://139.170.104.158:8000/rtp/239.120.2.38:5141$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://222.241.154.37:9901/tsfile/live/23006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://125.36.77.20:8888/rtp/225.1.1.195:5002
+#EXTINF:-1 group-title="央视频道",CCTV-6
+http://110.241.188.219:808/hls/6/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6
+http://111.166.52.200:4022/rtp/225.1.1.195:5002
+#EXTINF:-1 group-title="央视频道",CCTV-6
+http://60.26.61.132:8000/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV-6
 http://124.228.160.169:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://220.164.3.169:4022/rtp/239.200.200.21:9020
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://139.170.105.243:8000/rtp/239.120.1.49:8252
+http://117.13.24.81:8888/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://106.57.0.89:55555/rtp/239.200.200.21:9020
+rtp://239.3.1.174:8001
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://139.170.104.119:8000/rtp/239.120.1.49:8252
+http://111.167.225.202:8888/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://139.170.104.119:8000/rtp/239.120.2.38:5141
+http://106.59.3.147:55555/rtp/239.200.200.21:9020$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://106.59.3.3:55555/rtp/239.200.200.21:9020
-#EXTINF:-1 group-title="央视频道",CCTV-6
-http://220.164.3.48:4022/rtp/239.200.200.21:9020
+http://60.26.2.125:7000/rtp/225.1.1.195:5002
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://220.164.3.169:4022/rtp/239.200.200.105:8104
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://enlen.vip:4022/rtp/239.200.200.105:8104
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://106.57.0.89:55555/rtp/239.200.200.105:8104
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://124.228.160.169:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://106.59.2.162:55555/rtp/239.200.200.22:8024
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://106.59.3.3:55555/rtp/239.200.200.105:8104
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://106.57.1.93:55555/rtp/239.200.200.105:8104
-#EXTINF:-1 group-title="央视频道",CCTV-7
-rtp://239.3.1.61:8104
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://106.57.0.127:55555/rtp/239.200.200.105:8104
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://119.39.97.2:9002/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://enlen.vip:4022/rtp/239.200.200.22:8024
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+http://111.166.52.200:4022/rtp/225.1.1.138:5002
 #EXTINF:-1 group-title="央视频道",CCTV-7
 http://223.242.147.119:4022/rtp/238.1.78.239:7784$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://220.164.3.48:4022/rtp/239.200.200.105:8104
+http://111.167.225.202:8888/rtp/225.1.1.138:5002
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://220.164.3.169:4022/rtp/239.200.200.22:8024
+http://111.162.207.19:8686/rtp/225.1.1.138:5002
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://106.57.1.93:55555/rtp/239.200.200.22:8024
+http://125.36.77.20:8888/rtp/225.1.1.138:5002
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://222.241.154.37:9901/tsfile/live/23007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://106.59.2.162:55555/rtp/239.200.200.105:8104
+http://119.39.97.2:9002/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://183.185.246.78:9999/tsfile/live/0007_1.m3u8
+http://60.26.3.7:7000/rtp/225.1.1.138:5002
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://124.228.160.169:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://125.37.57.186:18888/rtp/225.1.1.138:5002
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://60.26.2.125:7000/rtp/225.1.1.138:5002
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://106.59.3.3:55555/rtp/239.200.200.22:8024
+http://117.9.169.233:8888/rtp/225.1.1.138:5002
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://106.57.0.89:55555/rtp/239.200.200.22:8024
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://106.57.0.89:55555/rtp/239.200.200.23:9028
+rtp://239.3.1.61:8104
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://218.68.52.22:8888/rtp/225.1.1.138:5002
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://222.241.154.37:9901/tsfile/live/23007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://183.185.246.78:9999/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://111.167.66.81:4022/rtp/225.1.1.138:5002
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://60.26.61.132:8000/rtp/225.1.1.138:5002
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://111.167.224.68:8888/rtp/225.1.1.138:5002
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://117.13.24.81:8888/rtp/225.1.1.138:5002
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://enlen.vip:4022/rtp/239.200.200.105:8104$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://111.166.52.200:4022/rtp/225.1.1.196:5002
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://220.164.3.48:4022/rtp/239.200.200.23:9028
-#EXTINF:-1 group-title="央视频道",CCTV-8
-rtp://239.3.1.175:8001
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://106.59.2.162:55555/rtp/239.200.200.23:9028
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://106.57.1.93:55555/rtp/239.200.200.72:9020
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://106.57.1.93:55555/rtp/239.200.200.23:9028
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://119.39.97.2:9002/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://106.57.0.89:55555/rtp/239.200.200.72:9020
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://106.59.3.3:55555/rtp/239.200.200.23:9028
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://220.164.3.169:4022/rtp/239.200.200.72:9020
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://enlen.vip:4022/rtp/239.200.200.72:9020
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://222.241.154.37:9901/tsfile/live/23008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://124.228.160.169:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://125.37.57.186:18888/rtp/225.1.1.196:5002
 #EXTINF:-1 group-title="央视频道",CCTV-8
 http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://enlen.vip:4022/rtp/239.200.200.23:9028
+http://enlen.vip:4022/rtp/239.200.200.23:9028$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://106.59.3.3:55555/rtp/239.200.200.72:9020
+http://60.26.61.132:8000/rtp/225.1.1.196:5002
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://111.167.225.202:8888/rtp/225.1.1.196:5002
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://220.164.3.169:4022/rtp/239.200.200.72:9020$720x576
+http://119.39.97.2:9002/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://106.59.3.147:55555/rtp/239.200.200.23:9028$1920x1080
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://111.167.66.81:4022/rtp/225.1.1.196:5002
 #EXTINF:-1 group-title="央视频道",CCTV-8
 http://110.241.188.219:808/hls/8/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://106.57.0.127:55555/rtp/239.200.200.23:9028
+http://218.68.52.22:8888/rtp/225.1.1.196:5002
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://220.164.3.169:4022/rtp/239.200.200.23:9028
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://106.57.0.127:55555/rtp/239.200.200.106:8112
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://106.57.1.93:55555/rtp/239.200.200.106:8112
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://220.164.3.48:4022/rtp/239.200.200.106:8112
-#EXTINF:-1 group-title="央视频道",CCTV-9
-rtp://239.3.1.62:8112
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://106.57.0.89:55555/rtp/239.200.200.106:8112
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://222.241.154.37:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://enlen.vip:4022/rtp/239.200.200.72:9020$720x576
+#EXTINF:-1 group-title="央视频道",CCTV-8
+rtp://239.3.1.175:8001
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://117.9.169.233:8888/rtp/225.1.1.196:5002
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://60.26.3.7:7000/rtp/225.1.1.196:5002
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://125.36.77.20:8888/rtp/225.1.1.196:5002
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://60.26.2.125:7000/rtp/225.1.1.196:5002
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://111.167.224.68:8888/rtp/225.1.1.196:5002
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://124.228.160.169:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://222.241.154.37:9901/tsfile/live/23008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://117.13.24.81:8888/rtp/225.1.1.196:5002
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://111.162.207.19:8686/rtp/225.1.1.196:5002
 #EXTINF:-1 group-title="央视频道",CCTV-9
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9
-http://220.164.3.169:4022/rtp/239.200.200.24:8032
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://nas.hssvm.com:8888/udp/225.1.1.119:5002$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://124.228.160.169:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://enlen.vip:4022/rtp/239.200.200.106:8112$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://106.59.3.3:55555/rtp/239.200.200.24:8032
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://enlen.vip:4022/rtp/239.200.200.106:8112
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://106.57.0.89:55555/rtp/239.200.200.24:8032
+http://125.36.77.20:8888/rtp/225.1.1.119:5002
 #EXTINF:-1 group-title="央视频道",CCTV-9
 http://121.24.98.21:8090/hls/17/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9
+http://111.162.207.19:8686/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://60.26.3.7:7000/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://117.9.169.233:8888/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://60.26.61.132:8000/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
 http://119.39.97.2:9002/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://220.164.3.169:4022/rtp/239.200.200.106:8112
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://220.164.3.169:4022/rtp/239.200.200.106:8112$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://106.59.3.3:55555/rtp/239.200.200.106:8112
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://106.59.2.162:55555/rtp/239.200.200.106:8112
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://106.57.1.93:55555/rtp/239.200.200.24:8032
 #EXTINF:-1 group-title="央视频道",CCTV-9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9
-http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
+http://117.13.24.81:8888/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://60.26.2.125:7000/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://218.68.52.22:8888/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://nas.hssvm.com:8888/udp/225.1.1.119:5002$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://111.167.224.68:8888/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://111.167.225.202:8888/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://111.166.52.200:4022/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://124.228.160.169:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://125.37.57.186:18888/rtp/225.1.1.119:5002
+#EXTINF:-1 group-title="央视频道",CCTV-9
+rtp://239.3.1.62:8112
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://222.241.154.37:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://enlen.vip:4022/rtp/239.200.200.106:8112$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://111.167.66.81:4022/rtp/225.1.1.119:5002
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://106.57.1.93:55555/rtp/239.200.200.25:8228
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://106.59.3.3:55555/rtp/239.200.200.107:8116
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://222.241.154.37:9901/tsfile/live/23010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://106.59.3.3:55555/rtp/239.200.200.25:8228
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://enlen.vip:4022/rtp/239.200.200.107:8116
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://220.164.3.169:4022/rtp/239.200.200.25:8228
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://220.164.3.169:4022/rtp/239.200.200.107:8116
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002146/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://220.164.3.48:4022/rtp/239.200.200.25:8228
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://106.59.2.162:55555/rtp/239.200.200.107:8116
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://106.59.2.162:55555/rtp/239.200.200.25:8228
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://106.57.1.93:55555/rtp/239.200.200.107:8116
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://119.39.97.2:9002/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://60.26.3.7:7000/rtp/225.1.1.140:5002
 #EXTINF:-1 group-title="央视频道",CCTV-10
 http://124.228.160.169:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://106.57.0.89:55555/rtp/239.200.200.25:8228
+http://111.162.207.19:8686/rtp/225.1.1.140:5002
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://223.242.147.119:4022/rtp/238.1.78.241:7800$1920x1080
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://106.57.0.89:55555/rtp/239.200.200.107:8116
+http://60.26.62.9:8000/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://60.26.2.125:7000/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://125.36.77.20:8888/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://60.26.61.132:8000/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://218.68.52.22:8888/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://117.9.169.233:8888/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://111.167.66.81:4022/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://111.166.52.200:4022/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://117.13.24.81:8888/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002146/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
 rtp://239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://enlen.vip:4022/rtp/239.200.200.25:8228
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://106.57.0.127:55555/rtp/239.200.200.25:8228
-#EXTINF:-1 group-title="央视频道",CCTV-10
 http://121.24.98.21:8090/hls/18/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://111.167.225.202:8888/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://222.241.154.37:9901/tsfile/live/23010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://125.37.57.186:18888/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://111.167.224.68:8888/rtp/225.1.1.140:5002
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://119.39.97.2:9002/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://111.164.176.119:7788/rtp/225.1.1.140:5002
 #EXTINF:-1 group-title="央视频道",CCTV-11
-http://139.170.104.158:8000/rtp/239.120.1.163:9036
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://106.57.0.89:55555/rtp/239.200.201.125:8480
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://220.164.3.48:4022/rtp/239.200.201.125:8480
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://220.164.3.169:4022/rtp/239.200.201.125:8480$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://119.39.97.2:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://enlen.vip:4022/rtp/239.200.201.125:8480$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://139.170.105.53:8000/rtp/239.120.1.163:9036
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://106.57.1.93:55555/rtp/239.200.201.125:8480
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://106.57.0.127:55555/rtp/239.200.201.125:8480
-#EXTINF:-1 group-title="央视频道",CCTV-11
-rtp://239.3.1.152:8120
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://222.241.154.37:9901/tsfile/live/23011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://139.170.104.119:8000/rtp/239.120.1.163:9036
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://220.164.3.169:4022/rtp/239.200.201.125:8480
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://106.59.2.162:55555/rtp/239.200.201.125:8480
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://121.24.98.21:8090/hls/19/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://106.59.3.147:55555/rtp/239.200.201.125:8480$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://106.59.3.3:55555/rtp/239.200.201.125:8480
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://enlen.vip:4022/rtp/239.200.201.125:8480
+http://117.9.169.233:8888/rtp/225.1.1.22:5002
 #EXTINF:-1 group-title="央视频道",CCTV-11
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://111.167.224.68:8888/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://111.167.66.81:4022/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://121.24.98.21:8090/hls/19/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://60.26.2.125:7000/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://enlen.vip:4022/rtp/239.200.201.125:8480$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://139.170.104.158:8000/rtp/239.120.2.100:5141$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://139.170.104.158:8000/rtp/239.120.1.163:9036$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://60.26.61.132:8000/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://222.241.154.37:9901/tsfile/live/23011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://111.166.52.200:4022/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://60.26.3.7:7000/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+rtp://239.3.1.152:8120
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://111.167.225.202:8888/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
 http://124.228.160.169:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://125.36.77.20:8888/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://117.13.24.81:8888/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://125.37.57.186:18888/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://111.162.207.19:8686/rtp/225.1.1.22:5002
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://119.39.97.2:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://220.164.3.169:4022/rtp/239.200.200.108:8124
+http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://106.59.3.3:55555/rtp/239.200.200.108:8124
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+http://111.166.52.200:4022/rtp/225.1.1.142:5002
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+http://[2409:8087:74F1:0021::0008]/270000001322/69900158041111100000002147/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://106.57.0.127:55555/rtp/239.200.200.108:8124
+http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://222.241.154.37:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.162.207.19:8686/rtp/225.1.1.142:5002
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://121.24.98.21:8090/hls/20/index.m3u8
+http://60.26.3.7:7000/rtp/225.1.1.142:5002
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://111.167.225.202:8888/rtp/225.1.1.142:5002
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://60.26.2.125:7000/rtp/225.1.1.142:5002
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://117.9.169.233:8888/rtp/225.1.1.142:5002
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://119.39.97.2:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://218.68.52.22:8888/rtp/225.1.1.142:5002
 #EXTINF:-1 group-title="央视频道",CCTV-12
 http://enlen.vip:4022/rtp/239.200.200.108:8124$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-12
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://36.62.124.141:4000/rtp/238.1.78.242:7808$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://220.164.3.48:4022/rtp/239.200.200.108:8124
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://[2409:8087:74F1:0021::0008]/270000001322/69900158041111100000002147/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://220.164.3.169:4022/rtp/239.200.200.108:8124$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://220.164.3.169:4022/rtp/239.200.200.27:8232
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://119.39.97.2:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://106.57.1.93:55555/rtp/239.200.200.27:8232
-#EXTINF:-1 group-title="央视频道",CCTV-12
-rtp://239.3.1.64:8124
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
+http://121.24.98.21:8090/hls/20/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://222.241.154.37:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://125.36.77.20:8888/rtp/225.1.1.142:5002
+#EXTINF:-1 group-title="央视频道",CCTV-12
+rtp://239.3.1.64:8124
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://125.37.57.186:18888/rtp/225.1.1.142:5002
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://60.26.62.9:8000/rtp/225.1.1.142:5002
+#EXTINF:-1 group-title="央视频道",CCTV-12
 http://124.228.160.169:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://enlen.vip:4022/rtp/239.200.200.108:8124
+http://60.26.61.132:8000/rtp/225.1.1.142:5002
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+http://111.167.224.68:8888/rtp/225.1.1.142:5002
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://106.57.0.89:55555/rtp/239.200.200.27:8232
+http://117.13.24.81:8888/rtp/225.1.1.142:5002
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://106.57.1.93:55555/rtp/239.200.200.108:8124
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://106.57.0.89:55555/rtp/239.200.200.108:8124
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://106.59.3.147:55555/rtp/239.200.200.108:8124$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://106.59.2.162:55555/rtp/239.200.200.108:8124
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://222.241.154.37:9901/tsfile/live/23013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://106.59.3.3:55555/rtp/239.200.201.170:8620
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://119.39.97.2:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://enlen.vip:4022/rtp/239.200.201.170:8620
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://stream.smntv.cn/smtv1/playlist.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://106.57.1.93:55555/rtp/239.200.200.4:8484
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://220.164.3.48:4022/rtp/239.200.201.170:8620
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://enlen.vip:4022/rtp/239.200.201.170:8620$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://106.57.1.93:55555/rtp/239.200.201.170:8620
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://124.228.160.169:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://220.164.3.169:4022/rtp/239.200.201.170:8620$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-13
-rtp://239.3.1.124:8128
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://220.164.3.169:4022/rtp/239.200.201.170:8620
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://106.57.0.89:55555/rtp/239.200.200.4:8484
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://106.57.0.127:55555/rtp/239.200.201.170:8620
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://106.59.3.3:55555/rtp/239.200.200.4:8484
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://106.57.0.89:55555/rtp/239.200.201.170:8620
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://220.164.3.169:4022/rtp/239.200.200.4:8484
+http://111.167.66.81:4022/rtp/225.1.1.142:5002
 #EXTINF:-1 group-title="央视频道",CCTV-13
 http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13
+http://111.166.52.200:4022/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://218.68.52.22:8888/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://60.26.3.7:7000/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://enlen.vip:4022/rtp/239.200.201.170:8620$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://111.167.224.68:8888/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://60.26.61.132:8000/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://117.9.169.233:8888/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+rtp://239.3.1.124:8128
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://60.26.62.9:8000/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://111.162.207.19:8686/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13
-http://106.59.2.162:55555/rtp/239.200.201.170:8620
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.57.1.93:55555/rtp/239.200.200.28:8236
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://enlen.vip:4022/rtp/239.200.200.28:8236
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://222.241.154.37:9901/tsfile/live/23014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://124.228.160.169:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.59.3.3:55555/rtp/239.200.200.28:8236
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.59.2.162:55555/rtp/239.200.200.109:8132
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.57.0.89:55555/rtp/239.200.200.28:8236
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://220.164.3.169:4022/rtp/239.200.200.28:8236
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://119.39.97.2:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.57.0.127:55555/rtp/239.200.200.109:8132
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://220.164.3.48:4022/rtp/239.200.200.109:8132
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.57.0.127:55555/rtp/239.200.200.28:8236
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.59.3.3:55555/rtp/239.200.200.109:8132
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.57.1.93:55555/rtp/239.200.200.109:8132
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://121.24.98.21:8090/hls/22/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://220.164.3.169:4022/rtp/239.200.200.109:8132
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://222.241.154.37:9901/tsfile/live/23013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://60.26.2.125:7000/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://111.167.66.81:4022/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://111.167.225.202:8888/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://125.37.57.186:18888/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://117.13.24.81:8888/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://125.36.77.20:8888/rtp/225.1.1.24:5002
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://124.228.160.169:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://119.39.97.2:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-14
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14
-http://enlen.vip:4022/rtp/239.200.200.109:8132
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.57.0.89:55555/rtp/239.200.200.109:8132
+http://60.26.61.132:8000/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://218.68.52.22:8888/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://117.9.169.233:8888/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://111.167.225.202:8888/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://111.167.66.81:4022/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://111.166.52.200:4022/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://60.26.3.7:7000/rtp/225.1.1.144:5002
 #EXTINF:-1 group-title="央视频道",CCTV-14
 rtp://239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV-14
-http://106.59.2.162:55555/rtp/239.200.200.28:8236
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://106.57.0.127:55555/rtp/239.200.201.112:8496
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://106.57.1.93:55555/rtp/239.200.201.112:8496
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://220.164.3.48:4022/rtp/239.200.201.112:8496
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://139.170.104.158:8000/rtp/239.120.1.167:9060
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://139.170.105.53:8000/rtp/239.120.1.167:9060
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://106.59.2.162:55555/rtp/239.200.201.112:8496
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://106.59.3.3:55555/rtp/239.200.201.112:8496
+http://enlen.vip:4022/rtp/239.200.200.109:8132$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://125.36.77.20:8888/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://111.167.224.68:8888/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://119.39.97.2:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://60.26.62.9:8000/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://117.13.24.81:8888/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://125.37.57.186:18888/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://124.228.160.169:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://111.162.207.19:8686/rtp/225.1.1.144:5002
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://222.241.154.37:9901/tsfile/live/23014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://121.24.98.21:8090/hls/22/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://60.26.2.125:7000/rtp/225.1.1.144:5002
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://121.24.98.21:8090/hls/23/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://124.228.160.169:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://enlen.vip:4022/rtp/239.200.201.112:8496
+http://60.26.2.125:7000/rtp/225.1.1.26:5002
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://60.26.61.132:8000/rtp/225.1.1.26:5002
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://enlen.vip:4022/rtp/239.200.201.112:8496$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://106.59.3.147:55555/rtp/239.200.201.112:8496$1920x1080
+http://125.36.77.20:8888/rtp/225.1.1.26:5002
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://222.241.154.37:9901/tsfile/live/23015_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.167.224.68:8888/rtp/225.1.1.26:5002
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://220.164.3.169:4022/rtp/239.200.201.112:8496
+http://139.170.104.158:8000/rtp/239.120.1.167:9060$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-15
-rtp://239.3.1.153:8136
+http://111.167.66.81:4022/rtp/225.1.1.26:5002
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://139.170.105.243:8000/rtp/239.120.1.167:9060
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://119.39.97.2:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://139.170.104.119:8000/rtp/239.120.1.167:9060
+http://117.13.24.81:8888/rtp/225.1.1.26:5002
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://106.57.0.89:55555/rtp/239.200.201.112:8496
+http://119.39.97.2:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://220.164.3.169:4022/rtp/239.200.201.112:8496$1920x1080
+http://125.37.57.186:18888/rtp/225.1.1.26:5002
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://139.170.104.158:8000/rtp/239.120.2.104:5141$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://enlen.vip:4022/rtp/239.200.201.112:8496$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://111.166.52.200:4022/rtp/225.1.1.26:5002
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://117.9.169.233:8888/rtp/225.1.1.26:5002
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://111.167.225.202:8888/rtp/225.1.1.26:5002
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://111.162.207.19:8686/rtp/225.1.1.26:5002
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://222.241.154.37:9901/tsfile/live/23015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://60.26.3.7:7000/rtp/225.1.1.26:5002
+#EXTINF:-1 group-title="央视频道",CCTV-15
+rtp://239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV-16
-rtp://239.3.1.184:8001
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://123.113.12.246:8012/rtp/239.3.1.184:8001$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
+http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://139.170.105.243:8000/rtp/239.120.2.105:5141
 #EXTINF:-1 group-title="央视频道",CCTV-16
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://119.41.35.78:4000/rtp/239.253.64.251:5140
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://139.170.104.158:8000/rtp/239.120.2.105:5141
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://139.170.104.158:8000/rtp/239.120.2.105:5141$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://139.170.105.53:8000/rtp/239.120.2.105:5141
 #EXTINF:-1 group-title="央视频道",CCTV-16
-http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16
 http://36.101.1.79:554/rtp/239.253.64.251:5140
 #EXTINF:-1 group-title="央视频道",CCTV-16
-http://112.67.46.176:8686/rtp/239.253.64.251:5140
+http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-16
-http://139.170.104.119:8000/rtp/239.120.1.252:9554
+http://139.170.105.243:8000/rtp/239.120.1.252:9554
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16
+rtp://239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-16
-http://223.199.133.247:33333/rtp/239.253.64.251:5140
+http://119.41.35.78:4000/rtp/239.253.64.251:5140
 #EXTINF:-1 group-title="央视频道",CCTV-16
-http://114.243.99.53:4000/rtp/239.3.1.184:8001$1920x1080
+http://139.170.104.119:8000/rtp/239.120.1.252:9554
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://123.113.12.246:8012/rtp/239.3.1.184:8001$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://139.170.104.158:8000/rtp/239.120.1.252:9554$1920x1080
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://139.170.104.119:8000/rtp/239.120.2.105:5141
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://139.170.104.158:8000/rtp/239.120.2.105:5141
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://112.67.42.137:8686/rtp/239.253.64.251:5140
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://139.170.104.158:8000/rtp/239.120.1.252:9554
 #EXTINF:-1 group-title="央视频道",CCTV-16
-http://139.170.104.119:8000/rtp/239.120.2.105:5141
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://139.170.105.243:8000/rtp/239.120.1.252:9554
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://139.170.105.53:8000/rtp/239.120.1.252:9554
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://114.243.99.53:4000/rtp/239.3.1.184:8001$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://113.117.165.60:8800/rtp/239.77.0.115:5146
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://113.83.248.51:58888/rtp/239.77.0.115:5146
+http://123.145.66.45:8005/rtp/225.0.4.179:7980
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://139.170.105.243:8000/rtp/239.120.1.68:8370
+http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://139.170.105.243:8000/rtp/239.120.2.106:5141
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://139.170.105.53:8000/rtp/239.120.2.106:5141
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://119.130.62.16:4022/rtp/239.77.0.115:5146$720x576
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://58.61.50.82:8888/rtp/239.77.0.115:5146
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://139.170.104.158:8000/rtp/239.120.2.106:5141
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://139.170.105.53:8000/rtp/239.120.1.68:8370
+http://139.170.104.158:8000/rtp/239.120.2.106:5141$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://121.24.98.21:8090/hls/15/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
+http://113.117.107.53:8800/rtp/239.77.0.115:5146$720x576
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://27.10.72.211:8005/rtp/225.0.4.179:7980
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://27.10.225.21:8004/rtp/225.0.4.179:7980
+#EXTINF:-1 group-title="央视频道",CCTV-17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://27.11.63.39:8002/rtp/225.0.4.179:7980
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
 rtp://239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://139.170.104.119:8000/rtp/239.120.2.106:5141
+http://27.11.52.62:8003/rtp/225.0.4.179:7980
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://139.170.104.119:8000/rtp/239.120.1.68:8370
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://27.41.249.21:801/rtp/239.20.0.8:3372
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://139.170.104.158:8000/rtp/239.120.1.68:8370
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://125.92.112.238:6668/rtp/239.77.0.115:5146
+http://27.10.73.63:8001/rtp/225.0.4.179:7980
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://139.170.104.158:8000/rtp/239.120.1.68:8370$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://27.41.249.21:801/rtp/239.20.0.7:3376
+http://27.10.213.42:8003/rtp/225.0.4.179:7980
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://113.206.182.128:8002/rtp/225.0.4.179:7980
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://27.10.211.143:8003/rtp/225.0.4.179:7980
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://27.11.52.62:8005/rtp/225.0.4.179:7980
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://123.145.11.206:8002/rtp/225.0.4.179:7980
+#EXTINF:-1 group-title="央视频道",CCTV-17
+http://27.11.53.118:8006/rtp/225.0.4.179:7980
 #EXTINF:-1 group-title="央视频道",CCTV-164K
 http://59.173.243.210:9901/tsfile/live/1036_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-怀旧剧场频道
-http://110.241.188.219:808/hls/56/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-风云剧场频道
 http://110.241.188.219:808/hls/57/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-女性时尚频道
 http://111.61.236.247:9081/hls/59/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-怀旧剧场频道
+http://110.241.188.219:808/hls/56/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4K
 http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4K
-rtp://239.3.1.245:2000
-#EXTINF:-1 group-title="央视频道",CCTV-4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4K
+rtp://239.3.1.245:2000
 #EXTINF:-1 group-title="央视频道",CCTV-8K
 https://tv.cry33.com/ys4K.php?id=8k
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://111.124.98.178:8188/rtp/238.255.2.203:5999
+http://112.67.41.167:8686/rtp/239.253.64.112:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://122.9.151.210:887/rtp/238.255.2.203:5999
+http://112.67.42.137:8686/rtp/239.253.64.112:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://218.86.153.10:9007/rtp/238.255.2.203:5999
+http://119.41.169.201:4000/rtp/239.253.64.112:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://222.80.13.233:4022/rtp/238.125.2.139:5140
+http://119.41.35.78:4000/rtp/239.253.64.112:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://36.105.40.106:8081/rtp/238.125.2.139:5140
+http://139.170.104.119:8000/rtp/239.120.2.222:5141
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://36.105.40.106:8083/rtp/238.125.2.139:5140
+http://139.170.104.158:8000/rtp/239.120.2.222:5141
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://36.105.40.106:8084/rtp/238.125.2.139:5140
+http://139.170.104.158:8000/rtp/239.120.2.222:5141$720x576
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://36.105.40.127:8083/rtp/238.125.2.139:5140
+http://139.170.105.243:8000/rtp/239.120.2.222:5141
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://36.105.40.129:8084/rtp/238.125.2.139:5140
+http://139.170.105.53:8000/rtp/239.120.2.222:5141
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://36.105.40.31:8084/rtp/238.125.2.139:5140
+http://223.199.153.134:2222/rtp/239.253.64.112:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://36.109.213.174:9988/rtp/238.125.2.139:5140
+http://223.199.159.105:2222/rtp/239.253.64.112:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://36.62.124.141:4000/rtp/238.1.78.27:6144$720x576
+http://223.199.159.190:2222/rtp/239.253.64.112:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://36.96.107.14:8082/rtp/238.125.2.139:5140
+http://36.101.1.79:554/rtp/239.253.64.112:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://49.113.181.226:4022/rtp/238.125.2.139:5140
+http://36.101.6.120:554/rtp/239.253.64.112:5140
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://58.42.184.110:8888/rtp/238.255.2.203:5999
+http://49.113.181.226:4022/rtp/238.125.2.139:5140$1920x1080
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 #EXTINF:-1 group-title="卫视频道",三沙卫视
@@ -980,11 +980,19 @@ http://222.241.154.37:9901/tsfile/live/23033_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="卫视频道",上海卫视
 http://223.151.51.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://110.185.36.10:9090/rtp/239.93.1.201:5140
+http://111.162.207.19:8686/rtp/225.1.1.38:5002
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://118.112.148.151:4022/rtp/239.93.1.201:5140$576x320
+http://111.166.52.200:4022/rtp/225.1.1.38:5002
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://118.116.127.80:8888/rtp/239.93.1.201:5140
+http://111.167.224.68:8888/rtp/225.1.1.38:5002
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://111.167.225.202:8888/rtp/225.1.1.38:5002
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://111.167.66.81:4022/rtp/225.1.1.38:5002
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://117.13.24.81:8888/rtp/225.1.1.38:5002
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://117.9.169.233:8888/rtp/225.1.1.38:5002
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://119.39.97.2:9002/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",东南卫视
@@ -992,25 +1000,23 @@ http://121.24.98.21:8090/hls/36/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://124.228.160.169:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://125.69.138.228:8880/rtp/239.93.1.201:5140
+http://125.36.77.20:8888/rtp/225.1.1.38:5002
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://171.213.129.107:4022/rtp/239.93.1.201:5140
+http://125.37.57.186:18888/rtp/225.1.1.38:5002
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://139.170.104.158:8000/rtp/239.120.1.232:9372$1920x1080
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://139.170.104.158:8000/rtp/239.120.2.195:5141$1920x1080
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://171.217.147.213:8818/rtp/239.93.1.201:5140$576x320
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://171.217.81.246:8088/rtp/239.93.1.201:5140
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://171.88.140.208:4000/rtp/239.93.1.201:5140
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://182.138.201.26:9991/rtp/239.93.1.201:5140$576x320
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://221.237.15.56:4443/rtp/239.93.1.201:5140
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://221.237.15.56:4443/rtp/239.93.1.201:5140$576x320
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://222.241.154.37:9901/tsfile/live/23037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://60.26.2.125:7000/rtp/225.1.1.38:5002
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://60.26.61.132:8000/rtp/225.1.1.38:5002
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
@@ -1018,23 +1024,21 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265033/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://wouu.net:9977/rtp/239.93.1.201:5140
-#EXTINF:-1 group-title="卫视频道",东南卫视
 http://wouu.net:9977/rtp/239.93.1.201:5140$576x320
 #EXTINF:-1 group-title="卫视频道",东南卫视
 rtp://239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东方卫视
+http://113.206.182.128:8002/rtp/225.0.4.80:7980
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://113.251.228.27:58888/rtp/235.254.198.73:1568$1920x1080
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://123.145.11.206:8002/rtp/225.0.4.80:7980
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://124.165.251.82:9999/tsfile/live/0107_1.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -1042,21 +1046,21 @@ http://125.80.153.209:8003/rtp/235.254.198.73:1568$1920x1080
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://171.217.147.213:8818/rtp/239.93.1.82:5140$576x320
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://182.138.201.26:9991/rtp/239.93.1.82:5140$576x320
+http://27.10.211.143:8003/rtp/225.0.4.80:7980
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://222.80.13.233:4022/rtp/238.125.1.5:5140
+http://27.10.225.21:8004/rtp/225.0.4.80:7980
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://223.242.147.119:4022/rtp/238.1.78.163:7176$1920x1080
+http://27.10.72.211:8005/rtp/225.0.4.80:7980
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://36.105.40.106:8083/rtp/238.125.1.5:5140
+http://27.10.73.63:8001/rtp/225.0.4.80:7980
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://36.105.40.106:8084/rtp/238.125.1.5:5140
+http://27.11.52.62:8003/rtp/225.0.4.80:7980
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://36.105.40.31:8084/rtp/238.125.1.5:5140
+http://27.11.52.62:8005/rtp/225.0.4.80:7980
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://36.109.213.174:9988/rtp/238.125.1.5:5140
+http://27.11.53.118:8006/rtp/225.0.4.80:7980
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://36.96.107.14:8082/rtp/238.125.1.5:5140
+http://27.11.63.39:8002/rtp/225.0.4.80:7980
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -1066,15 +1070,13 @@ http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://49.113.181.226:4022/rtp/238.125.1.5:5140
+http://49.113.181.226:4022/rtp/238.125.1.5:5140$1920x1080
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265018/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
+http://enlen.vip:4022/rtp/239.200.200.8:8032$1920x1080
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -1082,43 +1084,43 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://xeace.cn:8888/rtp/239.93.1.82:5140$576x320
-#EXTINF:-1 group-title="卫视频道",东方卫视
 rtp://239.3.1.136:8032
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://106.42.108.200:2002/rtp/239.16.10.19:2000$1920x1080
+http://111.162.207.19:8686/rtp/225.1.1.61:5002
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://111.167.224.68:8888/rtp/225.1.1.61:5002
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://111.167.225.202:8888/rtp/225.1.1.61:5002
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://111.167.66.81:4022/rtp/225.1.1.61:5002
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://117.9.169.233:8888/rtp/225.1.1.61:5002
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://119.39.97.2:9002/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://123.145.60.36:8005/rtp/225.0.4.21:7980$720x576
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://123.146.0.249:8000/rtp/225.0.4.21:7980$720x576
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://124.128.73.58:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://124.228.160.169:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://125.69.138.228:8880/rtp/239.93.1.168:5140$720x576
+http://125.36.77.20:8888/rtp/225.1.1.61:5002
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://125.37.57.186:18888/rtp/225.1.1.61:5002
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://171.217.147.213:8818/rtp/239.93.1.168:5140$720x576
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://220.164.3.169:4022/rtp/239.200.200.145:8840$1920x1080
-#EXTINF:-1 group-title="卫视频道",云南卫视
 http://222.241.154.37:9901/tsfile/live/23043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://222.80.13.233:4022/rtp/238.125.5.32:5140
+http://27.11.63.39:8004/rtp/225.0.4.21:7980$720x576
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://36.105.40.106:8083/rtp/238.125.5.32:5140
+http://27.8.238.161:8004/rtp/225.0.4.21:7980$720x576
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://36.105.40.106:8084/rtp/238.125.5.32:5140
+http://49.113.181.226:4022/rtp/238.125.5.32:5140$1920x1080
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://36.105.40.127:8083/rtp/238.125.5.32:5140
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://36.105.40.129:8084/rtp/238.125.5.32:5140
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://36.105.40.31:8084/rtp/238.125.5.32:5140
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://36.109.213.174:9988/rtp/238.125.5.32:5140
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://36.96.107.14:8082/rtp/238.125.5.32:5140
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://49.113.181.226:4022/rtp/238.125.5.32:5140
+http://60.26.61.132:8000/rtp/225.1.1.61:5002
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
@@ -1127,8 +1129,6 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/ind
 http://[2409:8087:74F1:0021::0008]/270000001128/9900000035/index.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://enlen.vip:4022/rtp/239.200.200.145:8840$1920x1080
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",亚洲卫视
 http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1 group-title="卫视频道",兵团卫视
@@ -1138,31 +1138,33 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://110.241.188.219:808/hls/39/index.m3u8
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://118.116.127.80:8888/rtp/239.93.1.208:5140
+http://111.167.224.68:8888/rtp/225.1.1.32:5002
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://171.213.129.107:4022/rtp/239.93.1.208:5140
+http://111.167.225.202:8888/rtp/225.1.1.32:5002
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://171.217.81.246:8088/rtp/239.93.1.208:5140
+http://111.167.66.81:4022/rtp/225.1.1.32:5002
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://171.88.140.208:4000/rtp/239.93.1.208:5140
+http://123.145.60.36:8005/rtp/225.0.4.38:7980$720x576
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://182.138.201.26:9991/rtp/239.93.1.208:5140$576x320
+http://123.146.0.249:8000/rtp/225.0.4.38:7980$720x576
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://211.158.98.26:55555/rtp/225.0.4.38:7980$720x576
+http://125.36.77.20:8888/rtp/225.1.1.32:5002
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://27.10.213.146:8008/rtp/225.0.4.38:7980$720x576
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://27.10.215.167:8001/rtp/225.0.4.38:7980$720x576
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://27.10.73.63:8008/rtp/225.0.4.38:7980$720x576
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://27.11.52.208:8007/rtp/225.0.4.38:7980$720x576
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://27.11.52.208:8010/rtp/225.0.4.38:7980$720x576
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://27.15.157.185:55555/rtp/225.0.4.38:7980$720x576
+http://27.11.63.39:8004/rtp/225.0.4.38:7980$720x576
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://36.49.50.38:8800/rtp/239.37.0.36:5540
+http://27.8.238.161:8004/rtp/225.0.4.38:7980$720x576
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://36.49.51.22:8800/rtp/239.37.0.36:5540
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://36.49.57.167:8800/rtp/239.37.0.36:5540
+http://36.49.51.22:8800/rtp/239.37.0.36:5540$720x576
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
@@ -1172,37 +1174,37 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://xeace.cn:8888/rtp/239.93.1.208:5140$576x320
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 group-title="卫视频道",农林卫视
 http://120.76.248.139/live/bfgd/4200000122.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://110.241.188.219:808/hls/21/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
+http://111.162.207.19:8686/rtp/225.1.1.113:5002
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://111.167.224.68:8888/rtp/225.1.1.113:5002
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://111.167.225.202:8888/rtp/225.1.1.113:5002
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://111.167.66.81:4022/rtp/225.1.1.113:5002
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://111.194.238.221:6060/rtp/239.3.1.241:8000$1920x1080
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://111.196.131.18:8686/rtp/239.3.1.241:8000$1920x1080
+http://111.196.184.130:5555/rtp/239.3.1.241:8000$1920x1080
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://111.196.184.130:5555/rtp/239.3.1.241:8000
+http://114.252.238.229:8000/rtp/239.3.1.241:8000$1920x1080
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://114.252.238.229:8000/rtp/239.3.1.241:8000
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://118.112.148.151:4022/rtp/239.93.1.83:5140$576x320
+http://117.9.169.233:8888/rtp/225.1.1.113:5002
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://119.39.97.2:9002/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://123.120.202.45:8888/rtp/239.3.1.241:8000
-#EXTINF:-1 group-title="卫视频道",北京卫视
 http://124.228.160.169:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://125.69.138.228:8880/rtp/239.93.1.83:5140$576x320
+http://125.36.77.20:8888/rtp/225.1.1.113:5002
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://125.37.57.186:18888/rtp/225.1.1.113:5002
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://171.217.147.213:8818/rtp/239.93.1.83:5140$576x320
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://182.138.201.26:9991/rtp/239.93.1.66:5140$576x320
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://221.237.15.56:4443/rtp/239.93.1.83:5140$576x320
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://222.241.154.37:9901/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",北京卫视
@@ -1218,19 +1220,17 @@ http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
+http://60.26.61.132:8000/rtp/225.1.1.113:5002
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265027/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://wouu.net:9977/rtp/239.93.1.83:5140$576x320
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://xeace.cn:8888/rtp/239.93.1.66:5140$576x320
 #EXTINF:-1 group-title="卫视频道",北京卫视
 rtp://239.3.1.241:8000
 #EXTINF:-1 group-title="卫视频道",南方卫视
@@ -1244,33 +1244,37 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/ind
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://video.qd.sdu.edu.cn/liverespath/151ef24b315bb7709d1a2f7a35d260932c6e9eb5/index.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
+http://111.162.207.19:8686/rtp/225.1.2.26:5002
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://111.166.52.200:4022/rtp/225.1.2.26:5002
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://111.167.224.68:8888/rtp/225.1.2.26:5002
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://111.167.225.202:8888/rtp/225.1.2.26:5002
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://111.167.66.81:4022/rtp/225.1.2.26:5002
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://117.13.24.81:8888/rtp/225.1.2.26:5002
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://117.9.169.233:8888/rtp/225.1.2.26:5002
+#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://119.39.97.2:9002/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://121.24.98.21:8090/hls/37/index.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://220.164.3.169:4022/rtp/239.200.201.127:8792$1920x1080
+http://125.36.77.20:8888/rtp/225.1.2.26:5002
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://222.80.13.233:4022/rtp/238.125.3.103:5140
+http://125.37.57.186:18888/rtp/225.1.2.26:5002
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://27.41.249.21:801/rtp/239.20.0.51:3216
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://36.105.40.106:8083/rtp/238.125.3.103:5140
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://36.105.40.106:8084/rtp/238.125.3.103:5140
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://36.105.40.127:8083/rtp/238.125.3.103:5140
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://36.105.40.129:8084/rtp/238.125.3.103:5140
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://36.105.40.31:8084/rtp/238.125.3.103:5140
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://36.109.213.174:9988/rtp/238.125.3.103:5140
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://36.96.107.14:8082/rtp/238.125.3.103:5140
+http://218.68.52.22:8888/rtp/225.1.2.26:5002
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://39.134.67.108/PLTV/88888888/224/3221226013/1.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://49.113.181.226:4022/rtp/238.125.3.103:5140
+http://60.26.2.125:7000/rtp/225.1.2.26:5002
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://60.26.3.7:7000/rtp/225.1.2.26:5002
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://60.26.61.132:8000/rtp/225.1.2.26:5002
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://61.134.200.65:8083/rtp/226.0.1.220:2068$1920x1080
 #EXTINF:-1 group-title="卫视频道",吉林卫视
@@ -1284,51 +1288,49 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://enlen.vip:4022/rtp/239.200.201.127:8792$1920x1080
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
 rtp://239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://106.86.155.221:20005/rtp/235.254.198.175:7980
+http://111.162.207.19:8686/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://113.248.101.178:8888/rtp/235.254.198.175:7980
+http://111.166.52.200:4022/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://113.248.111.219:8888/rtp/235.254.198.175:7980
+http://111.167.224.68:8888/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://113.248.169.40:4022/rtp/235.254.198.175:7980
+http://111.167.225.202:8888/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://113.248.176.179:8888/rtp/235.254.198.175:7980
+http://111.167.66.81:4022/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://113.250.146.188:8000/rtp/235.254.198.175:7980
+http://117.13.24.81:8888/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://113.250.151.123:8181/rtp/235.254.198.175:7980
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://113.251.226.247:7788/rtp/235.254.198.175:7980
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://113.251.64.45:8888/rtp/235.254.198.175:7980
+http://117.9.169.233:8888/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://119.39.97.2:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://119.84.197.220:7777/rtp/235.254.198.175:7980
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://121.24.98.21:8090/hls/58/index.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://124.228.160.169:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://14.105.104.187:10000/rtp/235.254.198.175:7980
+http://125.36.77.20:8888/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://182.138.201.26:9991/rtp/239.93.0.128:5140$576x320
+http://125.37.57.186:18888/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://222.182.121.81:8888/rtp/235.254.198.175:7980
+http://218.68.52.22:8888/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://222.241.154.37:9901/tsfile/live/23041_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://60.26.2.125:7000/rtp/225.1.1.123:5002
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://60.26.3.7:7000/rtp/225.1.1.123:5002
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://60.26.61.132:8000/rtp/225.1.1.123:5002
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://60.26.62.9:8000/rtp/225.1.1.123:5002
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
@@ -1336,37 +1338,39 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",四川卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://xeace.cn:8888/rtp/239.93.0.128:5140$576x320
+http://xeace.cn:8888/rtp/239.93.1.88:5140$576x320
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://106.57.0.127:55555/rtp/239.200.201.146:8136
+http://113.117.107.53:8800/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://106.57.0.89:55555/rtp/239.200.201.146:8136
+http://113.117.107.53:8800/rtp/239.77.0.9:5146$720x576
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://106.57.1.93:55555/rtp/239.200.201.146:8136
+http://113.119.24.2:58888/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://106.59.2.162:55555/rtp/239.200.201.146:8136
+http://113.119.63.22:8090/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://106.59.3.3:55555/rtp/239.200.201.146:8136
+http://113.76.149.122:4022/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://113.117.165.60:8800/rtp/239.77.0.9:5146
+http://113.83.248.51:58888/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://119.130.62.16:4022/rtp/239.77.0.9:5146$720x576
+http://113.93.55.208:5555/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://125.92.112.238:6668/rtp/239.77.0.9:5146
+http://113.93.55.247:5555/rtp/239.77.0.9:5146
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
+http://116.26.7.39:8088/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
 http://14.145.234.231:8888/rtp/239.77.0.9:5146$720x576
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://220.164.3.169:4022/rtp/239.200.201.146:8136
+http://14.19.179.71:4022/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://220.164.3.48:4022/rtp/239.200.201.146:8136
+http://183.7.123.15:4022/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://58.61.50.82:8888/rtp/239.77.0.9:5146
+http://218.18.4.142:8888/rtp/239.77.0.9:5146$720x576
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
+http://58.63.66.72:8888/rtp/239.77.0.9:5146
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
@@ -1374,37 +1378,31 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://enlen.vip:4022/rtp/239.200.201.146:8136
-#EXTINF:-1 group-title="卫视频道",大湾区卫视
-http://enlen.vip:4022/rtp/239.200.201.146:8136$720x576
-#EXTINF:-1 group-title="卫视频道",大湾区卫视
 https://skype.serv00.net/itouch.php?id=nfws$1920x1080
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://106.57.0.127:55555/rtp/239.200.200.39:8220
+http://111.162.207.19:8686/rtp/225.1.1.111:5002
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://106.57.0.89:55555/rtp/239.200.200.39:8220
+http://111.166.52.200:4022/rtp/225.1.1.111:5002
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://106.57.1.93:55555/rtp/239.200.200.39:8220
+http://111.167.224.68:8888/rtp/225.1.1.111:5002
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://106.59.2.162:55555/rtp/239.200.200.39:8220
+http://111.167.225.202:8888/rtp/225.1.1.111:5002
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://106.59.3.3:55555/rtp/239.200.200.39:8220
+http://111.167.66.81:4022/rtp/225.1.1.111:5002
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://118.112.148.151:4022/rtp/239.93.1.134:5140$576x320
+http://117.13.24.81:8888/rtp/225.1.1.111:5002
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://117.9.169.233:8888/rtp/225.1.1.111:5002
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://119.39.97.2:9002/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://121.24.98.21:8090/hls/33/index.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://125.69.138.228:8880/rtp/239.93.1.134:5140$576x320
+http://125.36.77.20:8888/rtp/225.1.1.111:5002
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://125.37.57.186:18888/rtp/225.1.1.111:5002
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://171.217.147.213:8818/rtp/239.93.1.134:5140$576x320
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://182.138.201.26:9991/rtp/239.93.1.134:5140$576x320
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://220.164.3.169:4022/rtp/239.200.200.39:8220
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://221.237.15.56:4443/rtp/239.93.1.134:5140$576x320
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://222.241.154.37:9901/tsfile/live/23032_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",天津卫视
@@ -1412,15 +1410,17 @@ http://223.151.51.74:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
+http://49.113.181.226:4022/rtp/238.125.1.13:5140$1920x1080
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://60.26.2.125:7000/rtp/225.1.1.111:5002
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://60.26.3.7:7000/rtp/225.1.1.111:5002
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://60.26.61.132:8000/rtp/225.1.1.111:5002
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://enlen.vip:4022/rtp/239.200.200.39:8220
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265026/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006827/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
@@ -1432,35 +1432,35 @@ http://wouu.net:9977/rtp/239.93.1.134:5140$576x320
 #EXTINF:-1 group-title="卫视频道",天津卫视
 rtp://239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://111.162.207.19:8686/rtp/225.1.1.56:5002
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://111.167.224.68:8888/rtp/225.1.1.56:5002
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://111.167.225.202:8888/rtp/225.1.1.56:5002
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://111.167.66.81:4022/rtp/225.1.1.56:5002
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://113.206.198.33:8003/rtp/225.0.4.41:7980$720x576
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://117.13.24.81:8888/rtp/225.1.1.56:5002
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://117.9.169.233:8888/rtp/225.1.1.56:5002
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://119.39.97.2:9002/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://123.144.225.19:55555/rtp/225.0.4.41:7980
+http://125.36.77.20:8888/rtp/225.1.1.56:5002
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://125.69.138.228:8880/rtp/239.93.1.212:5140$576x320
+http://125.37.57.186:18888/rtp/225.1.1.56:5002
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://182.138.201.26:9991/rtp/239.93.1.212:5140$576x320
+http://27.10.225.21:8004/rtp/225.0.4.41:7980$720x576
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://211.158.98.26:55555/rtp/225.0.4.41:7980$720x576
+http://27.11.45.165:8004/rtp/225.0.4.41:7980$720x576
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://211.158.99.77:55555/rtp/225.0.4.41:7980$720x576
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://27.10.211.128:8003/rtp/225.0.4.41:7980
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://27.10.225.21:8004/rtp/225.0.4.41:7980
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://27.10.64.166:4022/rtp/225.0.4.41:7980
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://27.11.45.165:8004/rtp/225.0.4.41:7980
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://27.11.63.39:8004/rtp/225.0.4.41:7980
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://27.15.157.185:55555/rtp/225.0.4.41:7980$720x576
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://27.9.90.26:8002/rtp/225.0.4.41:7980
+http://27.11.63.39:8004/rtp/225.0.4.41:7980$720x576
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://36.62.124.141:4000/rtp/238.1.78.109:6744$720x576
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://60.26.61.132:8000/rtp/225.1.1.56:5002
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
@@ -1480,27 +1480,29 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://106.111.74.38:10001/rtp/239.49.8.80:8000$1920x1080
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://106.57.0.127:55555/rtp/239.200.200.129:8720
+http://111.162.207.19:8686/rtp/225.1.1.127:5002
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://106.57.0.89:55555/rtp/239.200.200.129:8720
+http://111.167.224.68:8888/rtp/225.1.1.127:5002
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://106.57.1.93:55555/rtp/239.200.200.129:8720
+http://111.167.225.202:8888/rtp/225.1.1.127:5002
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://106.59.2.162:55555/rtp/239.200.200.129:8720
+http://111.167.66.81:4022/rtp/225.1.1.127:5002
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://106.59.3.3:55555/rtp/239.200.200.129:8720
+http://117.13.24.81:8888/rtp/225.1.1.127:5002
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://117.9.169.233:8888/rtp/225.1.1.127:5002
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://121.24.98.21:8090/hls/81/index.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://124.228.160.169:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",安徽卫视
+http://125.36.77.20:8888/rtp/225.1.1.127:5002
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://125.37.57.186:18888/rtp/225.1.1.127:5002
+#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://171.217.147.213:8818/rtp/239.93.1.166:5140$576x320
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://182.32.160.11:9997/rtp/239.21.1.21:5002$704x576
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://183.166.208.104:4000/rtp/238.1.79.27:4328$1920x1080
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://220.164.3.169:4022/rtp/239.200.200.129:8720
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://222.241.154.37:9901/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",安徽卫视
@@ -1510,17 +1512,15 @@ http://27.19.120.173:3520/rtp/239.254.96.20:8094$720x576
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
+http://60.26.2.125:7000/rtp/225.1.1.127:5002
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://60.26.61.132:8000/rtp/225.1.1.127:5002
+#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://enlen.vip:4022/rtp/239.200.200.129:8720
-#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://enlen.vip:4022/rtp/239.200.200.129:8720$1920x1080
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265025/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
@@ -1528,15 +1528,19 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 rtp://239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://106.57.0.127:55555/rtp/239.200.200.40:8228
+http://111.162.207.19:8686/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://106.57.0.89:55555/rtp/239.200.200.40:8228
+http://111.166.52.200:4022/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://106.57.1.93:55555/rtp/239.200.200.40:8228
+http://111.167.224.68:8888/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://106.59.2.162:55555/rtp/239.200.200.40:8228
+http://111.167.225.202:8888/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://106.59.3.3:55555/rtp/239.200.200.40:8228
+http://111.167.66.81:4022/rtp/225.1.1.148:5002
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://117.13.24.81:8888/rtp/225.1.1.148:5002
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://117.9.169.233:8888/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://119.39.97.2:9002/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",山东卫视
@@ -1544,17 +1548,11 @@ http://121.24.98.21:8090/hls/39/index.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://124.228.160.169:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://125.89.163.44:8888/rtp/239.77.0.94:5146$1920x1080
+http://125.36.77.20:8888/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://171.217.147.213:8818/rtp/239.93.0.229:5140$576x320
+http://125.37.57.186:18888/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://220.164.3.169:4022/rtp/239.200.200.168:8748
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://220.164.3.169:4022/rtp/239.200.200.168:8748$1920x1080
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://220.164.3.169:4022/rtp/239.200.200.40:8228
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://220.164.3.48:4022/rtp/239.200.200.40:8228
+http://218.68.52.22:8888/rtp/225.1.1.148:5002
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://222.241.154.37:9901/tsfile/live/23040_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",山东卫视
@@ -1564,15 +1562,17 @@ http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
+http://60.26.2.125:7000/rtp/225.1.1.148:5002
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://60.26.3.7:7000/rtp/225.1.1.148:5002
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://60.26.61.132:8000/rtp/225.1.1.148:5002
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://60.26.62.9:8000/rtp/225.1.1.148:5002
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://enlen.vip:4022/rtp/239.200.200.40:8228
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000016568/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265019/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
@@ -1582,43 +1582,43 @@ rtp://239.3.1.209:8052
 #EXTINF:-1 group-title="卫视频道",山东教育卫视
 http://[2409:8087:1a0a:df::402e]/wh7f454c46tw2754383805_-1220934996/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&RTS=1713110589&from=4&hms_devid=1103&online=1713110589&vqe=3
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://106.57.0.127:55555/rtp/239.200.200.56:8292
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://106.57.0.89:55555/rtp/239.200.200.56:8292
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://106.57.1.93:55555/rtp/239.200.200.56:8292
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://106.59.2.162:55555/rtp/239.200.200.56:8292
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://106.59.3.3:55555/rtp/239.200.200.56:8292
-#EXTINF:-1 group-title="卫视频道",山西卫视
 http://110.241.188.219:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://111.162.207.19:8686/rtp/225.1.1.50:5002
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://111.166.52.200:4022/rtp/225.1.1.50:5002
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://111.167.224.68:8888/rtp/225.1.1.50:5002
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://111.167.225.202:8888/rtp/225.1.1.50:5002
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://111.167.66.81:4022/rtp/225.1.1.50:5002
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://117.13.24.81:8888/rtp/225.1.1.50:5002
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://117.9.169.233:8888/rtp/225.1.1.50:5002
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://119.39.97.2:9002/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://125.69.138.228:8880/rtp/239.93.1.207:5140$576x320
+http://125.36.77.20:8888/rtp/225.1.1.50:5002
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://171.217.147.213:8818/rtp/239.93.1.207:5140$576x320
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://182.138.201.26:9991/rtp/239.93.1.207:5140$576x320
+http://125.37.57.186:18888/rtp/225.1.1.50:5002
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://218.68.54.141:8888/rtp/225.1.1.50:5002$720x576
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://220.164.3.169:4022/rtp/239.200.200.56:8292
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://220.164.3.169:4022/rtp/239.200.200.56:8292$720x576
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://220.164.3.48:4022/rtp/239.200.200.56:8292
-#EXTINF:-1 group-title="卫视频道",山西卫视
 http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
+http://60.26.2.125:7000/rtp/225.1.1.50:5002
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://60.26.3.7:7000/rtp/225.1.1.50:5002
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://60.26.61.132:8000/rtp/225.1.1.50:5002
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://enlen.vip:4022/rtp/239.200.200.56:8292
+http://enlen.vip:4022/rtp/239.200.200.56:8292$720x576
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 group-title="卫视频道",山西卫视
@@ -1626,77 +1626,79 @@ http://xeace.cn:8888/rtp/239.93.1.207:5140$576x320
 #EXTINF:-1 group-title="卫视频道",山西卫视
 https://epg.pw/stream/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://1.203.184.201:4000/rtp/225.1.8.49:8048$1920x1080
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://101.18.86.52:8888/rtp/239.253.92.206:8108$1920x1080
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://106.42.108.200:2000/rtp/239.16.10.104:2000$1920x1080
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://106.42.108.200:2001/rtp/239.16.10.104:2000$1920x1080
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://106.42.108.200:2002/rtp/239.16.10.104:2000$1920x1080
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://106.57.0.89:55555/rtp/239.200.201.35:8768
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://106.57.1.93:55555/rtp/239.200.201.35:8768
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://106.59.2.162:55555/rtp/239.200.201.35:8768
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://106.59.3.3:55555/rtp/239.200.201.35:8768
-#EXTINF:-1 group-title="卫视频道",广东卫视
 http://110.241.188.219:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://111.162.207.19:8686/rtp/225.1.1.116:5002
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://111.166.52.200:4022/rtp/225.1.1.116:5002
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://111.167.224.68:8888/rtp/225.1.1.116:5002
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://111.167.224.68:8888/rtp/225.1.1.116:5002$1920x1080
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://113.248.101.178:8888/rtp/235.254.196.204:1088$1920x1080
+http://111.167.225.202:8888/rtp/225.1.1.116:5002
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://113.251.64.45:8888/rtp/235.254.196.204:1088$1920x1080
+http://111.167.66.81:4022/rtp/225.1.1.116:5002
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://114.91.25.0:10010/rtp/239.45.3.230:5140$1920x1080
+http://114.217.65.110:8888/rtp/239.49.8.13:9422$1920x1080
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://115.150.91.247:4022/rtp/239.252.219.213:5140$1920x1080
+http://114.232.24.244:8888/rtp/239.49.8.13:9422$1920x1080
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://118.112.148.151:4022/rtp/239.93.1.92:5140$576x320
+http://115.171.80.38:8888/rtp/225.1.8.49:8048$1920x1080
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://117.13.24.81:8888/rtp/225.1.1.116:5002
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://117.9.169.233:8888/rtp/225.1.1.116:5002
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://119.39.97.2:9002/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广东卫视
+http://120.10.101.13:4000/rtp/239.253.92.206:8108$1920x1080
+#EXTINF:-1 group-title="卫视频道",广东卫视
 http://122.224.232.226:8888/rtp/233.50.200.187:5140$1920x1080
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://123.120.202.45:8888/rtp/239.3.1.142:8048$1920x1080
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://124.228.160.169:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://171.119.207.30:7000/rtp/226.0.1.149:3078$1920x1080
+http://125.36.77.20:8888/rtp/225.1.1.116:5002
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://125.36.77.20:8888/rtp/225.1.1.116:5002$1920x1080
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://125.37.57.186:18888/rtp/225.1.1.116:5002
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://171.124.232.161:8083/rtp/226.0.1.149:3078$1920x1080
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://171.217.147.213:8818/rtp/239.93.0.201:5140$576x320
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://171.217.147.213:8818/rtp/239.93.1.92:5140$576x320
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://182.138.201.26:9991/rtp/239.93.0.201:5140$576x320
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://218.68.54.141:8888/rtp/225.1.1.116:5002$1920x1080
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://220.164.3.169:4022/rtp/239.200.201.35:8768
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://221.237.15.56:4443/rtp/239.93.1.92:5140$576x320
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://222.241.154.37:9901/tsfile/live/23038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://223.151.51.74:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://27.10.73.63:8008/rtp/225.0.4.84:7980$1920x1080
+http://27.10.211.143:8003/rtp/225.0.4.84:7980$1920x1080
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://27.11.45.165:8004/rtp/225.0.4.84:7980$1920x1080
+http://27.11.52.62:8003/rtp/225.0.4.84:7980$1920x1080
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://27.11.52.62:8005/rtp/225.0.4.84:7980$1920x1080
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://27.154.88.217:8888/rtp/239.61.4.33:1025$1920x1080
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://58.41.2.83:8880/rtp/239.45.3.230:5140$1920x1080
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://60.220.167.216:8085/rtp/226.0.1.149:3078$1920x1080
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://60.26.2.125:7000/rtp/225.1.1.116:5002
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://60.26.3.7:7000/rtp/225.1.1.116:5002
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://60.26.61.132:8000/rtp/225.1.1.116:5002
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://enlen.vip:4022/rtp/239.200.201.35:8768
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
+http://enlen.vip:4022/rtp/239.200.201.35:8768$1920x1080
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
@@ -1704,19 +1706,19 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://wouu.net:9977/rtp/239.93.1.92:5140$576x320
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://xeace.cn:8888/rtp/239.93.0.201:5140$576x320
-#EXTINF:-1 group-title="卫视频道",广东卫视
 rtp://239.3.1.142:8048
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://106.57.0.89:55555/rtp/239.200.200.53:8280
+http://111.162.207.19:8686/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://106.57.1.93:55555/rtp/239.200.200.53:8280
+http://111.167.224.68:8888/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://106.59.2.162:55555/rtp/239.200.200.53:8280
+http://111.167.225.202:8888/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://106.59.3.147:55555/rtp/239.200.200.53:8280$720x576
+http://111.167.66.81:4022/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://106.59.3.3:55555/rtp/239.200.200.53:8280
+http://117.13.24.81:8888/rtp/225.1.2.81:5002
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://117.9.169.233:8888/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://119.39.97.2:9002/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广西卫视
@@ -1724,11 +1726,9 @@ http://121.24.98.21:8090/hls/85/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://124.228.160.169:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://211.158.98.26:55555/rtp/225.0.4.34:7980$720x576
+http://125.36.77.20:8888/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://220.164.3.169:4022/rtp/239.200.200.53:8280
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://220.164.3.169:4022/rtp/239.200.200.53:8280$720x576
+http://125.37.57.186:18888/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://222.241.154.37:9901/tsfile/live/23039_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广西卫视
@@ -1740,23 +1740,23 @@ http://27.10.213.42:8003/rtp/225.0.4.34:7980$720x576
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://27.10.214.39:8003/rtp/225.0.4.34:7980$720x576
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://27.15.157.185:55555/rtp/225.0.4.34:7980$720x576
-#EXTINF:-1 group-title="卫视频道",广西卫视
 http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://60.26.2.125:7000/rtp/225.1.2.81:5002
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://60.26.61.132:8000/rtp/225.1.2.81:5002
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://enlen.vip:4022/rtp/239.200.200.53:8280
-#EXTINF:-1 group-title="卫视频道",广西卫视
 http://enlen.vip:4022/rtp/239.200.200.53:8280$720x576
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://www.dsmcloud.top:8888/udp/239.81.0.107:4056$1920x1080
 #EXTINF:-1 group-title="卫视频道",康巴卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 group-title="卫视频道",延边卫视
@@ -1766,73 +1766,69 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://110.241.188.219:808/hls/43/index.m3u8
 #EXTINF:-1 group-title="卫视频道",新疆卫视
+http://111.162.207.19:8686/rtp/225.1.1.35:5002
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://111.167.224.68:8888/rtp/225.1.1.35:5002
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://111.167.225.202:8888/rtp/225.1.1.35:5002
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://111.167.66.81:4022/rtp/225.1.1.35:5002
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://113.117.107.53:8800/rtp/239.77.0.75:5146$720x576
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://117.13.24.81:8888/rtp/225.1.1.35:5002
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://117.9.169.233:8888/rtp/225.1.1.35:5002
+#EXTINF:-1 group-title="卫视频道",新疆卫视
 http://119.39.97.2:9002/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://123.13.246.53:4000/rtp/225.1.4.97:1126
+http://125.36.77.20:8888/rtp/225.1.1.35:5002
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://123.168.95.252:4000/rtp/239.21.1.45:5002$720x576
+http://125.37.57.186:18888/rtp/225.1.1.35:5002
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://139.170.104.158:8000/rtp/239.120.1.134:8862$720x576
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://139.170.104.158:8000/rtp/239.120.2.29:5141$720x576
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://171.217.147.213:8818/rtp/239.93.1.214:5140$720x320
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://182.118.242.63:58888/rtp/225.1.4.97:1126
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://211.158.98.26:55555/rtp/225.0.4.43:7980$720x576
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://219.157.168.158:8888/rtp/225.1.4.97:1126
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://222.137.233.111:8888/rtp/225.1.4.97:1126
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://222.137.80.143:8787/rtp/225.1.4.97:1126
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://222.138.214.142:9999/rtp/225.1.4.97:1126
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://222.138.214.71:9999/rtp/225.1.4.97:1126
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://222.141.134.18:888/rtp/225.1.4.97:1126
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://27.10.213.146:8004/rtp/225.0.4.43:7980$720x576
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://27.10.73.63:8008/rtp/225.0.4.43:7980$720x576
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://27.15.157.185:55555/rtp/225.0.4.43:7980$720x576
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://42.236.253.50:2000/rtp/225.1.4.97:1126
+http://60.26.61.132:8000/rtp/225.1.1.35:5002
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://106.59.3.147:55555/rtp/239.200.200.7:8028$1920x1080
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://110.185.36.10:9090/rtp/239.93.1.45:5140
-#EXTINF:-1 group-title="卫视频道",江苏卫视
 http://110.241.188.219:808/hls/20/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://111.162.207.19:8686/rtp/225.1.1.126:5002
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://111.166.52.200:4022/rtp/225.1.1.126:5002
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://111.167.224.68:8888/rtp/225.1.1.126:5002
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://111.167.225.202:8888/rtp/225.1.1.126:5002
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://111.167.66.81:4022/rtp/225.1.1.126:5002
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://113.251.228.247:7788/rtp/235.254.198.64:1532$1920x1080
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://118.116.127.80:8888/rtp/239.93.1.45:5140
+http://117.13.24.81:8888/rtp/225.1.1.126:5002
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://117.9.169.233:8888/rtp/225.1.1.126:5002
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://119.39.97.2:9002/tsfile/live/0127_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://124.228.160.169:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://125.69.138.228:8880/rtp/239.93.1.45:5140
+http://125.36.77.20:8888/rtp/225.1.1.126:5002
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://171.213.129.107:4022/rtp/239.93.1.45:5140
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://171.217.81.246:8088/rtp/239.93.1.45:5140
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://171.88.140.208:4000/rtp/239.93.1.45:5140
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://182.138.201.26:9991/rtp/239.93.1.45:5140
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://220.164.3.169:4022/rtp/239.200.200.7:8028$1920x1080
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://221.237.15.56:4443/rtp/239.93.1.45:5140
+http://125.37.57.186:18888/rtp/225.1.1.126:5002
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://222.241.154.37:9901/tsfile/live/23029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://223.151.51.74:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://223.242.147.119:4022/rtp/238.1.78.165:7192$1920x1080
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -1844,13 +1840,17 @@ http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
+http://60.26.2.125:7000/rtp/225.1.1.126:5002
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://60.26.3.7:7000/rtp/225.1.1.126:5002
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://60.26.61.132:8000/rtp/225.1.1.126:5002
+#EXTINF:-1 group-title="卫视频道",江苏卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://enlen.vip:4022/rtp/239.200.200.7:8028$1920x1080
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265030/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -1858,43 +1858,49 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://wouu.net:9977/rtp/239.93.1.45:5140
+http://wouu.net:9977/rtp/239.93.1.45:5140$576x320
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 rtp://239.3.1.135:8028
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://106.59.3.147:55555/rtp/239.200.201.79:8876$1920x1080
+http://111.162.207.19:8686/rtp/225.1.2.29:5002
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://111.167.224.68:8888/rtp/225.1.2.29:5002
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://111.167.225.202:8888/rtp/225.1.2.29:5002
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://111.167.66.81:4022/rtp/225.1.2.29:5002
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://113.206.198.33:8003/rtp/225.0.4.25:7980$720x576
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://118.116.127.80:8888/rtp/239.93.1.19:5140
+http://117.9.169.233:8888/rtp/225.1.2.29:5002
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://119.39.97.2:9002/tsfile/live/0138_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://121.24.98.21:8090/hls/55/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
+http://123.145.60.36:8005/rtp/225.0.4.25:7980$720x576
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://123.146.0.249:8000/rtp/225.0.4.25:7980$720x576
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://124.228.160.169:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://125.69.138.228:8880/rtp/239.93.1.19:5140
+http://125.36.77.20:8888/rtp/225.1.2.29:5002
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://171.213.129.107:4022/rtp/239.93.1.19:5140
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://171.217.81.246:8088/rtp/239.93.1.19:5140
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://171.88.140.208:4000/rtp/239.93.1.19:5140
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://211.158.98.26:55555/rtp/225.0.4.25:7980$720x576
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://211.158.99.77:55555/rtp/225.0.4.25:7980$720x576
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://220.164.3.169:4022/rtp/239.200.201.79:8876$1920x1080
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://221.237.15.56:4443/rtp/239.93.1.19:5140
+http://125.37.57.186:18888/rtp/225.1.2.29:5002
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://222.241.154.37:9901/tsfile/live/23034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://223.151.51.74:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江西卫视
+http://27.11.52.62:8002/rtp/225.0.4.25:7980$720x576
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://27.11.63.39:8004/rtp/225.0.4.25:7980$720x576
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://27.8.238.161:8004/rtp/225.0.4.25:7980$720x576
+#EXTINF:-1 group-title="卫视频道",江西卫视
 http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://60.26.61.132:8000/rtp/225.1.2.29:5002
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
@@ -1902,51 +1908,47 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://enlen.vip:4022/rtp/239.200.201.79:8876$1920x1080
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265032/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://wouu.net:9977/rtp/239.93.1.19:5140
+http://wouu.net:9977/rtp/239.93.1.19:5140$576x320
 #EXTINF:-1 group-title="卫视频道",江西卫视
 rtp://239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://106.59.3.147:55555/rtp/239.200.200.12:8844$1920x1080
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://110.185.36.10:9090/rtp/239.93.1.202:5140
-#EXTINF:-1 group-title="卫视频道",河北卫视
 http://110.241.188.219:808/hls/18/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://118.116.127.80:8888/rtp/239.93.1.202:5140
+http://111.162.207.19:8686/rtp/225.1.2.27:5002
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://111.166.52.200:4022/rtp/225.1.2.27:5002
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://111.167.224.68:8888/rtp/225.1.2.27:5002
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://111.167.225.202:8888/rtp/225.1.2.27:5002
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://111.167.66.81:4022/rtp/225.1.2.27:5002
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://117.13.24.81:8888/rtp/225.1.2.27:5002
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://117.9.169.233:8888/rtp/225.1.2.27:5002
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://119.39.97.2:9002/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://125.69.138.228:8880/rtp/239.93.1.202:5140
+http://125.36.77.20:8888/rtp/225.1.2.27:5002
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://171.213.129.107:4022/rtp/239.93.1.202:5140
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://171.217.81.246:8088/rtp/239.93.1.202:5140
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://171.88.140.208:4000/rtp/239.93.1.202:5140
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://182.138.201.26:9991/rtp/239.93.1.202:5140
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://220.164.3.169:4022/rtp/239.200.200.12:8844$1920x1080
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://221.237.15.56:4443/rtp/239.93.1.202:5140
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://222.211.167.112:4000/rtp/239.93.1.202:5140
+http://125.37.57.186:18888/rtp/225.1.2.27:5002
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://222.241.154.37:9901/tsfile/live/23047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://27.11.253.128:8002/rtp/225.0.4.174:7980$1920x1080
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://49.113.181.226:4022/rtp/238.125.1.64:5140$1920x1080
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://60.26.2.125:7000/rtp/225.1.2.27:5002
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://60.26.61.132:8000/rtp/225.1.2.27:5002
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
@@ -1958,51 +1960,51 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://enlen.vip:4022/rtp/239.200.200.12:8844$1920x1080
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://wouu.net:9977/rtp/239.93.1.202:5140
+http://wouu.net:9977/rtp/239.93.1.202:5140$576x320
 #EXTINF:-1 group-title="卫视频道",河北卫视
 rtp://239.3.1.148:8072
 #EXTINF:-1 group-title="卫视频道",河北卫视「IPV6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://113.206.119.145:8001/rtp/225.0.4.22:7980
+http://111.162.207.19:8686/rtp/225.1.2.61:5002
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://113.206.184.127:55555/rtp/225.0.4.22:7980
+http://111.167.224.68:8888/rtp/225.1.2.61:5002
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://111.167.225.202:8888/rtp/225.1.2.61:5002
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://111.167.66.81:4022/rtp/225.1.2.61:5002
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://121.24.98.21:8090/hls/34/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://123.144.225.19:55555/rtp/225.0.4.22:7980
+http://123.145.60.36:8005/rtp/225.0.4.22:7980$720x576
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://123.146.0.249:8000/rtp/225.0.4.22:7980$720x576
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://124.228.160.169:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",河南卫视
+http://125.36.77.20:8888/rtp/225.1.2.61:5002
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://125.37.57.186:18888/rtp/225.1.2.61:5002
+#EXTINF:-1 group-title="卫视频道",河南卫视
 http://222.241.154.37:9901/tsfile/live/23044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.10.211.128:8003/rtp/225.0.4.22:7980
+http://27.10.225.21:8004/rtp/225.0.4.22:7980$720x576
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.10.225.21:8004/rtp/225.0.4.22:7980
+http://27.11.45.165:8004/rtp/225.0.4.22:7980$720x576
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.10.64.166:4022/rtp/225.0.4.22:7980
+http://27.11.52.62:8002/rtp/225.0.4.22:7980$720x576
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.10.76.34:8007/rtp/225.0.4.22:7980
+http://27.11.52.62:8003/rtp/225.0.4.22:7980$720x576
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.11.38.61:8004/rtp/225.0.4.22:7980
+http://27.11.52.62:8005/rtp/225.0.4.22:7980$720x576
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.11.45.165:8004/rtp/225.0.4.22:7980
+http://27.11.63.39:8004/rtp/225.0.4.22:7980$720x576
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.11.52.62:8002/rtp/225.0.4.22:7980
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.11.52.62:8003/rtp/225.0.4.22:7980
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.11.52.62:8005/rtp/225.0.4.22:7980
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.11.63.39:8004/rtp/225.0.4.22:7980
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://27.9.90.26:8002/rtp/225.0.4.22:7980
+http://27.8.238.161:8004/rtp/225.0.4.22:7980$720x576
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
@@ -2012,37 +2014,39 @@ http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://110.241.188.219:808/hls/26/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
+http://111.162.207.19:8686/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://111.166.52.200:4022/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://111.167.224.68:8888/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://111.167.225.202:8888/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://111.167.66.81:4022/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://117.13.24.81:8888/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://117.9.169.233:8888/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://119.39.97.2:9002/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://124.228.160.169:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://220.164.3.169:4022/rtp/239.200.200.141:8724$1920x1080
+http://125.36.77.20:8888/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://125.37.57.186:18888/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://218.68.52.22:8888/rtp/225.1.1.112:5002
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://222.241.154.37:9901/tsfile/live/23028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://222.80.13.233:4022/rtp/238.125.1.7:5140
-#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://223.151.51.74:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://36.105.40.106:8083/rtp/238.125.1.7:5140
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://36.105.40.106:8084/rtp/238.125.1.7:5140
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://36.105.40.129:8084/rtp/238.125.1.7:5140
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://36.105.40.31:8084/rtp/238.125.1.7:5140
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://36.109.213.174:9988/rtp/238.125.1.7:5140
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://36.96.107.14:8082/rtp/238.125.1.7:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -2054,9 +2058,15 @@ http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://49.113.181.226:4022/rtp/238.125.1.7:5140
+http://49.113.181.226:4022/rtp/238.125.1.7:5140$1920x1080
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://49.75.158.51:4022/rtp/239.49.8.20:9618$1920x1080
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://60.26.2.125:7000/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://60.26.3.7:7000/rtp/225.1.1.112:5002
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://60.26.61.132:8000/rtp/225.1.1.112:5002
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -2064,37 +2074,35 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://enlen.vip:4022/rtp/239.200.200.141:8724$1920x1080
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014260/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265031/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000007275/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
 rtp://239.3.1.137:8036
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://106.42.108.200:2002/rtp/239.16.10.43:2000$1920x1080
+http://111.162.207.19:8686/rtp/225.1.2.82:5002
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://111.167.224.68:8888/rtp/225.1.2.82:5002
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://111.167.225.202:8888/rtp/225.1.2.82:5002
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://111.167.66.81:4022/rtp/225.1.2.82:5002
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://113.206.198.33:8003/rtp/225.0.4.40:7980$720x576
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://117.9.169.233:8888/rtp/225.1.2.82:5002
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://119.39.97.2:9002/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://124.228.160.169:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",海南卫视
+http://125.36.77.20:8888/rtp/225.1.2.82:5002
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://125.37.57.186:18888/rtp/225.1.2.82:5002
+#EXTINF:-1 group-title="卫视频道",海南卫视
 http://125.93.74.27:9002/tsfile/live/0109_1.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://211.158.172.121:8888/rtp/225.0.4.40:7980$720x576
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://211.158.99.77:55555/rtp/225.0.4.40:7980$720x576
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://27.10.213.146:8008/rtp/225.0.4.40:7980$720x576
 #EXTINF:-1 group-title="卫视频道",海南卫视
@@ -2108,15 +2116,9 @@ http://27.11.45.165:8004/rtp/225.0.4.40:7980$720x576
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://27.8.238.161:8004/rtp/225.0.4.40:7980$720x576
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://36.49.50.38:8800/rtp/239.37.0.200:5540
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://36.49.51.22:8800/rtp/239.37.0.200:5540
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://36.49.51.22:8800/rtp/239.37.0.201:5540
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://36.49.57.167:8800/rtp/239.37.0.200:5540
-#EXTINF:-1 group-title="卫视频道",海南卫视
 http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://49.113.181.226:4022/rtp/238.125.1.68:5140$1920x1080
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
@@ -2126,87 +2128,85 @@ http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海峡卫视
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8570/.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://101.81.79.240:8881/rtp/239.45.3.231:5140$1920x1080
+http://111.162.207.19:8686/rtp/225.1.1.117:5002
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://106.42.108.200:2001/rtp/239.16.10.11:2000$1920x1080
+http://111.166.52.200:4022/rtp/225.1.1.117:5002
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://106.42.108.200:2002/rtp/239.16.10.11:2000$1920x1080
+http://111.167.224.68:8888/rtp/225.1.1.117:5002
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://111.167.224.68:8888/rtp/225.1.1.117:5002$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://114.246.102.14:4000/rtp/239.3.1.134:8020$1920x1080
+http://111.167.225.202:8888/rtp/225.1.1.117:5002
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://111.167.66.81:4022/rtp/225.1.1.117:5002
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://115.150.91.247:4022/rtp/239.252.219.212:5140$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://117.82.87.250:8888/rtp/239.49.8.15:9430$1920x1080
+http://117.13.24.81:8888/rtp/225.1.1.117:5002
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://117.30.199.197:8888/rtp/239.61.4.134:1025$1920x1080
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://117.9.169.233:8888/rtp/225.1.1.117:5002
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://118.112.148.151:4022/rtp/239.93.1.84:5140$576x320
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://118.79.114.96:6000/rtp/226.0.1.150:3079$1920x1080
-#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://119.39.97.2:9002/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://121.233.165.235:8800/rtp/239.49.8.15:9430$1920x1080
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://121.237.155.250:8800/rtp/239.49.8.15:9430$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://121.24.98.21:8090/hls/84/index.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://124.228.160.169:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://125.69.138.228:8880/rtp/239.93.1.84:5140$576x320
+http://125.36.77.20:8888/rtp/225.1.1.117:5002
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://171.119.207.30:7000/rtp/226.0.1.150:3079$1920x1080
+http://125.36.77.20:8888/rtp/225.1.1.117:5002$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://171.124.3.251:8085/rtp/226.0.1.150:3079$1920x1080
+http://125.37.57.186:18888/rtp/225.1.1.117:5002
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://171.124.232.161:8083/rtp/226.0.1.150:3079$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://171.217.147.213:8818/rtp/239.93.1.84:5140$576x320
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://175.0.95.242:9000/rtp/239.76.253.188:9000$1920x1080
+http://183.185.42.126:8082/rtp/226.0.1.150:3079$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://183.188.28.71:6001/rtp/226.0.1.150:3079$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://221.237.15.56:4443/rtp/239.93.1.84:5140$576x320
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://222.188.160.161:4022/rtp/239.49.8.15:9430$1920x1080
-#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://222.241.154.37:9901/tsfile/live/23035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://222.80.13.233:4022/rtp/238.125.1.2:5140
+http://222.68.72.9:5555/rtp/239.45.3.231:5140$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://222.95.141.132:58888/rtp/239.49.8.15:9430$1920x1080
+http://222.70.18.26:6666/rtp/239.45.3.231:5140$1920x1080
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://222.95.43.217:9000/rtp/239.49.8.15:9430$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://223.151.51.74:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://223.242.147.119:4022/rtp/238.1.78.156:7120$1920x1080
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://36.105.40.106:8083/rtp/238.125.1.2:5140
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://36.105.40.106:8084/rtp/238.125.1.2:5140
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://36.105.40.31:8084/rtp/238.125.1.2:5140
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://36.109.213.174:9988/rtp/238.125.1.2:5140
-#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://36.47.83.11:8014/rtp/239.109.205.189:9602$1920x1080
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://36.96.107.14:8082/rtp/238.125.1.2:5140
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://49.113.181.226:4022/rtp/238.125.1.2:5140
+http://49.113.181.226:4022/rtp/238.125.1.2:5140$1920x1080
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://58.32.41.129:8888/rtp/239.45.3.231:5140$1920x1080
+http://58.41.2.83:8880/rtp/239.45.3.231:5140$1920x1080
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://60.220.167.216:8085/rtp/226.0.1.150:3079$1920x1080
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://60.26.2.125:7000/rtp/225.1.1.117:5002
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://60.26.61.132:8000/rtp/225.1.1.117:5002
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265028/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
@@ -2218,21 +2218,19 @@ http://wouu.net:9977/rtp/239.93.1.84:5140$576x320
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 rtp://239.3.1.134:8020
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://106.57.0.127:55555/rtp/239.200.200.47:8256
+http://111.162.207.19:8686/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://106.57.0.89:55555/rtp/239.200.200.47:8256
+http://111.166.52.200:4022/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://106.57.0.89:55555/rtp/239.200.200.68:8772
+http://111.167.224.68:8888/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://106.57.1.93:55555/rtp/239.200.200.47:8256
+http://111.167.225.202:8888/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://106.57.1.93:55555/rtp/239.200.200.68:8772
+http://111.167.66.81:4022/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://106.59.2.162:55555/rtp/239.200.200.47:8256
+http://117.13.24.81:8888/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://106.59.3.3:55555/rtp/239.200.200.47:8256
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://106.59.3.3:55555/rtp/239.200.200.68:8772
+http://117.9.169.233:8888/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://119.39.97.2:9002/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖北卫视
@@ -2240,17 +2238,25 @@ http://121.24.98.21:8090/hls/57/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://124.228.160.169:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://220.164.3.169:4022/rtp/239.200.200.47:8256
+http://125.36.77.20:8888/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://220.164.3.169:4022/rtp/239.200.200.68:8772
+http://125.37.57.186:18888/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://220.164.3.48:4022/rtp/239.200.200.47:8256
+http://218.68.52.22:8888/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://223.151.51.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://60.26.2.125:7000/rtp/225.1.1.147:5002
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://60.26.3.7:7000/rtp/225.1.1.147:5002
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://60.26.61.132:8000/rtp/225.1.1.147:5002
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://60.26.62.9:8000/rtp/225.1.1.147:5002
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
@@ -2259,12 +2265,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:74F1:0021::0008]/000000001000PLTV/88888888/224/3221226159/index.m3u8?HlsProfileId=
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://ayolee.com:5253/rtp/239.93.0.250:5140$1920x1080
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://enlen.vip:4022/rtp/239.200.200.47:8256
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265023/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
@@ -2276,37 +2276,35 @@ rtp://239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://110.241.188.219:808/hls/19/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
+http://111.162.207.19:8686/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://111.166.52.200:4022/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://111.167.224.68:8888/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://111.167.225.202:8888/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://111.167.66.81:4022/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://113.251.228.247:7788/rtp/235.254.198.62:1524$1920x1080
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://117.13.24.81:8888/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://117.9.169.233:8888/rtp/225.1.1.114:5002
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://119.39.97.2:9002/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://124.228.160.169:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南卫视
+http://125.36.77.20:8888/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://125.37.57.186:18888/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://218.68.52.22:8888/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://222.241.154.37:9901/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://222.80.13.233:4022/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://223.151.51.74:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.105.40.106:8081/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.105.40.106:8083/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.105.40.106:8084/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.105.40.127:8083/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.105.40.129:8084/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.105.40.130:8081/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.105.40.31:8084/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.105.40.32:8082/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.109.213.174:9988/rtp/238.125.1.4:5140
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://36.96.107.14:8082/rtp/238.125.1.4:5140
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://39.134.65.173/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
@@ -2316,15 +2314,17 @@ http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://49.113.181.226:4022/rtp/238.125.1.4:5140
+http://49.113.181.226:4022/rtp/238.125.1.4:5140$1920x1080
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://60.26.2.125:7000/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://60.26.3.7:7000/rtp/225.1.1.114:5002
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://60.26.61.132:8000/rtp/225.1.1.114:5002
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265024/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
@@ -2336,19 +2336,23 @@ rtp://239.3.1.132:8012
 #EXTINF:-1 group-title="卫视频道",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://111.167.224.68:8888/rtp/225.1.1.30:5002
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://111.167.225.202:8888/rtp/225.1.1.30:5002
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://111.167.66.81:4022/rtp/225.1.1.30:5002
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://113.206.198.33:8003/rtp/225.0.4.44:7980$720x576
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://118.116.127.80:8888/rtp/239.93.1.215:5140
+http://125.36.77.20:8888/rtp/225.1.1.30:5002
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://171.88.140.208:4000/rtp/239.93.1.215:5140
+http://171.104.106.24:50112/rtp/239.81.0.207:4056$1920x1080
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://202.100.46.58:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://211.158.172.121:8888/rtp/225.0.4.44:7980$720x576
+http://202.103.213.173:8888/rtp/239.81.0.207:4056$1920x1080
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://211.158.98.26:55555/rtp/225.0.4.44:7980$720x576
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://211.158.99.77:55555/rtp/225.0.4.44:7980$720x576
+http://202.103.213.43:8888/rtp/239.81.0.207:4056$1920x1080
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://27.10.213.146:8001/rtp/225.0.4.44:7980$720x576
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
@@ -2362,8 +2366,6 @@ http://27.11.45.165:8004/rtp/225.0.4.44:7980$720x576
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://27.11.52.208:8010/rtp/225.0.4.44:7980$720x576
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://27.15.157.185:55555/rtp/225.0.4.44:7980$720x576
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://27.8.238.161:8004/rtp/225.0.4.44:7980$720x576
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
@@ -2375,40 +2377,42 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031121/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002160/1.m3u8
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",福建东南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 group-title="卫视频道",蒙语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 group-title="卫视频道",西藏卫视
+http://111.162.207.19:8686/rtp/225.1.1.51:5002
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://111.167.224.68:8888/rtp/225.1.1.51:5002
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://111.167.225.202:8888/rtp/225.1.1.51:5002
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://111.167.66.81:4022/rtp/225.1.1.51:5002
+#EXTINF:-1 group-title="卫视频道",西藏卫视
 http://114.246.102.14:4000/rtp/239.3.1.47:8164$720x576
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://117.13.24.81:8888/rtp/225.1.1.51:5002
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://117.9.169.233:8888/rtp/225.1.1.51:5002
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://119.39.97.2:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://139.170.104.119:8000/rtp/239.120.1.136:8874
+http://125.36.77.20:8888/rtp/225.1.1.51:5002
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://139.170.104.119:8000/rtp/239.120.2.24:5141
+http://125.37.57.186:18888/rtp/225.1.1.51:5002
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://139.170.104.158:8000/rtp/239.120.1.136:8874
+http://139.170.104.158:8000/rtp/239.120.1.136:8874$720x576
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://139.170.104.158:8000/rtp/239.120.2.24:5141
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://139.170.105.243:8000/rtp/239.120.1.136:8874
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://139.170.105.243:8000/rtp/239.120.2.24:5141
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://139.170.105.53:8000/rtp/239.120.1.136:8874
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://139.170.105.53:8000/rtp/239.120.2.24:5141
+http://139.170.104.158:8000/rtp/239.120.2.24:5141$720x576
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://171.217.147.213:8818/rtp/239.93.1.213:5140$576x320
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://182.138.201.26:9991/rtp/239.93.1.213:5140$576x320
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://27.41.249.21:801/rtp/239.20.0.157:2112
-#EXTINF:-1 group-title="卫视频道",西藏卫视
 http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://60.26.2.125:7000/rtp/225.1.1.51:5002
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://60.26.61.132:8000/rtp/225.1.1.51:5002
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://[2409:8087:1a0a:df::4039]/wh7f454c46tw2710545171_1093384597/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8?icpid=88888888&RTS=1713110546&from=4&hms_devid=1212&online=1713110546&vqe=3
 #EXTINF:-1 group-title="卫视频道",西藏卫视
@@ -2416,57 +2420,55 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://ayolee.com:5253/rtp/239.93.1.213:5140$576x320
-#EXTINF:-1 group-title="卫视频道",西藏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws$1920x1080
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://xeace.cn:8888/rtp/239.93.1.213:5140$576x320
-#EXTINF:-1 group-title="卫视频道",西藏卫视
 https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=c2b73a871f8a062dce01042b284753df&time=66bef378
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://111.162.207.19:8686/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://111.166.52.200:4022/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://111.167.224.68:8888/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://111.167.225.202:8888/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://111.167.66.81:4022/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://113.251.226.247:7788/rtp/235.254.198.185:7980$1920x1080
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://117.13.24.81:8888/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://117.9.169.233:8888/rtp/225.1.2.28:5002
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://119.39.97.2:9002/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://121.24.98.21:8090/hls/40/index.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://183.66.15.138:4070/rtp/235.254.198.185:7980$1920x1080
+http://125.36.77.20:8888/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://125.37.57.186:18888/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://218.68.52.22:8888/rtp/225.1.2.28:5002
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://222.241.154.37:9901/tsfile/live/23046_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://222.80.13.233:4022/rtp/238.125.1.65:5140
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://223.151.51.74:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://27.19.120.173:3520/rtp/239.69.1.150:10536$1920x1080
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.105.40.106:8081/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.105.40.106:8083/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.105.40.106:8084/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.105.40.127:8083/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.105.40.129:8084/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.105.40.130:8081/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.105.40.31:8084/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.105.40.32:8082/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.109.213.174:9988/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.96.107.14:8082/rtp/238.125.1.65:5140
-#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://49.113.181.226:4022/rtp/238.125.1.65:5140
+http://60.26.2.125:7000/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://60.26.3.7:7000/rtp/225.1.2.28:5002
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://60.26.61.132:8000/rtp/225.1.2.28:5002
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
@@ -2476,27 +2478,25 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 rtp://239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://106.57.0.127:55555/rtp/239.200.200.167:8736
+http://111.162.207.19:8686/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://106.57.0.89:55555/rtp/239.200.200.167:8736
+http://111.166.52.200:4022/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://106.57.0.89:55555/rtp/239.200.200.3:8224
+http://111.167.224.68:8888/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://106.57.1.93:55555/rtp/239.200.200.167:8736
+http://111.167.225.202:8888/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://106.57.1.93:55555/rtp/239.200.200.3:8224
+http://111.167.66.81:4022/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://106.59.2.162:55555/rtp/239.200.200.167:8736
+http://117.13.24.81:8888/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://106.59.3.3:55555/rtp/239.200.200.167:8736
+http://117.9.169.233:8888/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://119.39.97.2:9002/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
@@ -2504,27 +2504,27 @@ http://121.24.98.21:8090/hls/59/index.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://124.228.160.169:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://220.164.3.169:4022/rtp/239.200.200.167:8736
+http://125.36.77.20:8888/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://220.164.3.169:4022/rtp/239.200.200.167:8736$1920x1080
+http://125.37.57.186:18888/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://220.164.3.169:4022/rtp/239.200.200.3:8224
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://220.164.3.48:4022/rtp/239.200.200.167:8736
+http://218.68.52.22:8888/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://222.241.154.37:9901/tsfile/live/23036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://60.26.2.125:7000/rtp/225.1.1.154:5002
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://60.26.3.7:7000/rtp/225.1.1.154:5002
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://60.26.61.132:8000/rtp/225.1.1.154:5002
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://60.26.62.9:8000/rtp/225.1.1.154:5002
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://enlen.vip:4022/rtp/239.200.200.167:8736
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://enlen.vip:4022/rtp/239.200.200.167:8736$1920x1080
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265022/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
@@ -2536,47 +2536,47 @@ rtp://239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",辽宁卫视「IPV6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://106.42.108.200:2002/rtp/239.16.10.13:2000$1920x1080
+http://111.162.207.19:8686/rtp/225.1.1.155:5002
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://111.167.224.68:8888/rtp/225.1.1.155:5002
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://111.167.225.202:8888/rtp/225.1.1.155:5002
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://111.167.66.81:4022/rtp/225.1.1.155:5002
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://114.246.102.14:4000/rtp/239.3.1.122:8160$1920x1080
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://117.13.24.81:8888/rtp/225.1.1.155:5002
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://117.9.169.233:8888/rtp/225.1.1.155:5002
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://119.39.97.2:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://121.24.98.21:8090/hls/78/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
+http://125.36.77.20:8888/rtp/225.1.1.155:5002
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://125.37.57.186:18888/rtp/225.1.1.155:5002
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://139.170.104.158:8000/rtp/239.120.1.146:8934$1920x1080
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://183.66.15.138:4070/rtp/235.254.196.249:1268$1920x1080
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://222.241.154.37:9901/tsfile/live/23042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://222.80.13.233:4022/rtp/238.125.1.14:5140
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://36.105.40.106:8081/rtp/238.125.1.14:5140
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://36.105.40.106:8083/rtp/238.125.1.14:5140
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://36.105.40.106:8084/rtp/238.125.1.14:5140
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://36.105.40.127:8083/rtp/238.125.1.14:5140
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://36.105.40.129:8084/rtp/238.125.1.14:5140
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://36.105.40.31:8084/rtp/238.125.1.14:5140
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://36.109.213.174:9988/rtp/238.125.1.14:5140
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://36.96.107.14:8082/rtp/238.125.1.14:5140
-#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://49.113.181.226:4022/rtp/238.125.1.14:5140
+http://49.113.181.226:4022/rtp/238.125.1.14:5140$1920x1080
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://60.26.2.125:7000/rtp/225.1.1.155:5002
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://60.26.61.132:8000/rtp/225.1.1.155:5002
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3
+http://enlen.vip:4022/rtp/239.200.200.49:8264$720x576
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
@@ -2586,25 +2586,29 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 rtp://239.3.1.122:8160
 #EXTINF:-1 group-title="卫视频道",陕西卫视
+http://111.162.207.19:8686/rtp/225.1.1.41:5002
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://111.167.224.68:8888/rtp/225.1.1.41:5002
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://111.167.225.202:8888/rtp/225.1.1.41:5002
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://111.167.66.81:4022/rtp/225.1.1.41:5002
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://113.206.198.33:8003/rtp/225.0.4.37:7980$720x576
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://119.39.97.2:9002/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://123.138.216.44:9902/tsfile/live/0136_1.m3u8
 #EXTINF:-1 group-title="卫视频道",陕西卫视
+http://125.36.77.20:8888/rtp/225.1.1.41:5002
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://125.37.56.52:18888/rtp/225.1.1.41:5002$720x576
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://211.158.98.26:55555/rtp/225.0.4.37:7980$720x576
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://211.158.99.77:55555/rtp/225.0.4.37:7980$720x576
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://220.164.3.169:4022/rtp/239.200.200.55:8288$720x576
+http://125.37.57.186:18888/rtp/225.1.1.41:5002
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://223.151.51.74:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://27.10.211.128:8003/rtp/225.0.4.37:7980
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://27.10.211.143:8003/rtp/225.0.4.37:7980$720x576
 #EXTINF:-1 group-title="卫视频道",陕西卫视
@@ -2612,17 +2616,13 @@ http://27.10.213.42:8003/rtp/225.0.4.37:7980$720x576
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://27.10.214.39:8003/rtp/225.0.4.37:7980$720x576
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://27.10.225.21:8004/rtp/225.0.4.37:7980
+http://27.10.225.21:8004/rtp/225.0.4.37:7980$720x576
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://27.10.64.166:4022/rtp/225.0.4.37:7980
+http://27.11.45.165:8004/rtp/225.0.4.37:7980$720x576
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://27.11.45.165:8004/rtp/225.0.4.37:7980
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://27.11.63.39:8004/rtp/225.0.4.37:7980
+http://27.11.63.39:8004/rtp/225.0.4.37:7980$720x576
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://27.19.120.173:3520/rtp/239.254.96.186:9196$720x576
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://27.9.90.26:8002/rtp/225.0.4.37:7980
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 #EXTINF:-1 group-title="卫视频道",陕西卫视
@@ -2632,41 +2632,41 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/ind
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://113.128.128.46:8688/rtp/239.21.1.43:5002$720x576
+http://111.162.207.19:8686/rtp/225.1.1.54:5002
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://111.167.224.68:8888/rtp/225.1.1.54:5002
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://111.167.225.202:8888/rtp/225.1.1.54:5002
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://111.167.66.81:4022/rtp/225.1.1.54:5002
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://113.206.198.33:8003/rtp/225.0.4.39:7980$720x576
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://117.9.169.233:8888/rtp/225.1.1.54:5002
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://118.112.148.151:4022/rtp/239.93.1.209:5140$576x320
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://119.39.97.2:9002/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",青海卫视
+http://125.36.77.20:8888/rtp/225.1.1.54:5002
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://125.37.57.186:18888/rtp/225.1.1.54:5002
+#EXTINF:-1 group-title="卫视频道",青海卫视
 http://171.8.138.195:85/tsfile/live/0140_1.m3u8
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://211.158.98.26:55555/rtp/225.0.4.39:7980$720x576
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://211.158.99.77:55555/rtp/225.0.4.39:7980$720x576
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://220.164.3.169:4022/rtp/239.200.200.58:8300$720x576
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://223.242.147.119:4022/rtp/238.1.78.102:6688$720x576
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://27.10.215.167:8001/rtp/225.0.4.39:7980$720x576
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://27.10.225.21:8004/rtp/225.0.4.39:7980
+http://27.10.225.21:8004/rtp/225.0.4.39:7980$720x576
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://27.11.45.165:8004/rtp/225.0.4.39:7980
+http://27.11.45.165:8004/rtp/225.0.4.39:7980$720x576
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://27.11.52.208:8010/rtp/225.0.4.39:7980$720x576
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://27.11.63.39:8004/rtp/225.0.4.39:7980
+http://27.11.63.39:8004/rtp/225.0.4.39:7980$720x576
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://27.19.120.173:3520/rtp/239.254.96.95:8544$720x576
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://enlen.vip:4022/rtp/239.200.200.58:8300$720x576
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://stream.qhbtv.com/qhws/playlist.m3u8
 #EXTINF:-1 group-title="卫视频道",青海卫视
@@ -2680,9 +2680,19 @@ http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 #EXTINF:-1 group-title="卫视频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://110.185.36.10:9090/rtp/239.93.1.85:5140
+http://111.162.207.19:8686/rtp/225.1.1.115:5002
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://118.116.127.80:8888/rtp/239.93.1.85:5140
+http://111.166.52.200:4022/rtp/225.1.1.115:5002
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://111.167.224.68:8888/rtp/225.1.1.115:5002
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://111.167.225.202:8888/rtp/225.1.1.115:5002
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://111.167.66.81:4022/rtp/225.1.1.115:5002
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://117.13.24.81:8888/rtp/225.1.1.115:5002
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://117.9.169.233:8888/rtp/225.1.1.115:5002
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://119.39.97.2:9002/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
@@ -2690,23 +2700,15 @@ http://121.24.98.21:8090/hls/42/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://124.228.160.169:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://125.69.138.228:8880/rtp/239.93.1.85:5140
+http://125.36.77.20:8888/rtp/225.1.1.115:5002
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://171.213.129.107:4022/rtp/239.93.1.85:5140
+http://125.37.57.186:18888/rtp/225.1.1.115:5002
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://171.217.147.213:8818/rtp/239.93.0.231:5140$576x320
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://171.217.81.246:8088/rtp/239.93.1.85:5140
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://171.88.140.208:4000/rtp/239.93.1.85:5140
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://182.138.201.26:9991/rtp/239.93.1.85:5140
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://183.66.15.138:4070/rtp/235.254.198.70:1556$1920x1080
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://221.237.15.56:4443/rtp/239.93.1.85:5140
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://222.211.167.112:4000/rtp/239.93.1.85:5140
+http://218.68.52.22:8888/rtp/225.1.1.115:5002
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://222.241.154.37:9901/tsfile/live/23045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
@@ -2714,17 +2716,17 @@ http://223.151.51.74:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://39.134.67.108/PLTV/88888888/224/3221225994/1.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://60.26.2.125:7000/rtp/225.1.1.115:5002
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://60.26.3.7:7000/rtp/225.1.1.115:5002
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://60.26.61.132:8000/rtp/225.1.1.115:5002
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
@@ -2747,8 +2749,6 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226525/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://wouu.net:9977/rtp/239.93.1.85:5140
 #EXTINF:-1 group-title="卫视频道",龙江卫视
 rtp://239.3.1.133:8016
 #EXTINF:-1 group-title="体育频道",NewTV_精品体育「IPV6」
@@ -2782,33 +2782,33 @@ https://fanmingming.com/fm?id=820
 #EXTINF:-1 group-title="体育频道",山东体育休闲广播
 https://fanmingming.com/fm?id=520
 #EXTINF:-1 group-title="体育频道",广东体育
+http://118.183.212.14:6868/rtp/239.255.30.128:8231
+#EXTINF:-1 group-title="体育频道",广东体育
+http://118.183.212.29:6868/rtp/239.255.30.128:8231
+#EXTINF:-1 group-title="体育频道",广东体育
 http://171.104.106.24:50112/rtp/239.81.0.104:4056$1920x1080
 #EXTINF:-1 group-title="体育频道",广东体育
 http://171.107.202.113:4022/rtp/239.81.0.104:4056$1920x1080
 #EXTINF:-1 group-title="体育频道",广东体育
-http://222.80.13.233:4022/rtp/238.125.1.12:5140$1920x1080
+http://202.103.213.173:8888/rtp/239.81.0.104:4056$1920x1080
 #EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.106:8082/rtp/238.125.1.12:5140
+http://202.103.213.43:8888/rtp/239.81.0.104:4056$1920x1080
 #EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.108:8084/rtp/238.125.1.12:5140
+http://220.173.25.19:4022/rtp/239.81.0.104:4056$1920x1080
 #EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.109:8083/rtp/238.125.1.12:5140
+http://42.91.62.192:10000/rtp/239.255.30.115:8231
 #EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.130:8081/rtp/238.125.1.12:5140
+http://42.91.62.201:10000/rtp/239.255.30.115:8231
 #EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.130:8082/rtp/238.125.1.12:5140
+http://42.91.62.232:10000/rtp/239.255.30.115:8231
 #EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.31:8081/rtp/238.125.1.12:5140
-#EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.32:8082/rtp/238.125.1.12:5140
-#EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.33:8081/rtp/238.125.1.12:5140
-#EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.33:8082/rtp/238.125.1.12:5140
-#EXTINF:-1 group-title="体育频道",广东体育
-http://36.105.40.33:8084/rtp/238.125.1.12:5140
+http://42.91.62.232:10000/rtp/239.255.30.128:8231
 #EXTINF:-1 group-title="体育频道",广东体育
 http://49.113.181.226:4022/rtp/238.125.1.12:5140$1920x1080
+#EXTINF:-1 group-title="体育频道",广东体育
+http://60.164.228.49:4040/rtp/239.255.30.115:8231
+#EXTINF:-1 group-title="体育频道",广东体育
+http://60.164.229.62:4040/rtp/239.255.30.128:8231
 #EXTINF:-1 group-title="体育频道",广东体育
 https://skype.serv00.net/itouch.php?id=gdty$1920x1080
 #EXTINF:-1 group-title="体育频道",秦皇岛体育音乐广播
