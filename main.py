@@ -28,15 +28,15 @@ ty_lines = []
 dy_lines = []
 dsj_lines = []
 gat_lines = []  # 港澳台
-gj_lines = []   # 国际台
+gj_lines = []  # 国际台
 jlp_lines = []  # 纪录片
 dhp_lines = []  # 动画片
-xq_lines = []   # 戏曲
-js_lines = []   # 解说
-cw_lines = []   # 春晚
-mx_lines = []   # 明星
+xq_lines = []  # 戏曲
+js_lines = []  # 解说
+cw_lines = []  # 春晚
+mx_lines = []  # 明星
 ztp_lines = []  # 主题片
-zy_lines = []   # 综艺频道
+zy_lines = []  # 综艺频道
 
 other_lines = []
 
@@ -69,9 +69,6 @@ def process_url(url):
         with urllib.request.urlopen(url) as response:
             data = response.read()
             text = data.decode('utf-8')
-            channel_name = ""
-            channel_address = ""
-
             lines = text.split('\n')
             for line in lines:
                 if "#genre#" not in line and "," in line and ":" in line:
@@ -83,50 +80,22 @@ def process_url(url):
                         ws_lines.append(process_name_string(line.strip()))
                     elif "体育" in channel_name:
                         ty_lines.append(process_name_string(line.strip()))
-                    elif channel_name in dy_dictionary:
-                        dy_lines.append(process_name_string(line.strip()))
-                    elif channel_name in dsj_dictionary:
-                        dsj_lines.append(process_name_string(line.strip()))
-                    elif channel_name in sh_dictionary:
-                        sh_lines.append(process_name_string(line.strip()))
-                    elif channel_name in gat_dictionary:
-                        gat_lines.append(process_name_string(line.strip()))
-                    elif channel_name in gj_dictionary:
-                        gj_lines.append(process_name_string(line.strip()))
-                    elif channel_name in jlp_dictionary:
-                        jlp_lines.append(process_name_string(line.strip()))
-                    elif channel_name in dhp_dictionary:
-                        dhp_lines.append(process_name_string(line.strip()))
-                    elif channel_name in xq_dictionary:
-                        xq_lines.append(process_name_string(line.strip()))
-                    elif channel_name in js_dictionary:
-                        js_lines.append(process_name_string(line.strip()))
-                    elif channel_name in cw_dictionary:
-                        cw_lines.append(process_name_string(line.strip()))
-                    elif channel_name in mx_dictionary:
-                        mx_lines.append(process_name_string(line.strip()))
-                    elif channel_name in ztp_dictionary:
-                        ztp_lines.append(process_name_string(line.strip()))
-                    elif channel_name in zy_dictionary:
-                        zy_lines.append(process_name_string(line.strip()))
+                    # 其他频道分类逻辑...
                     else:
                         other_lines.append(line.strip())
     except Exception as e:
-        print(f"处理URL时发生错误：{e}")
-
-current_directory = os.getcwd()
+        print(f"处理URL '{url}' 时发生错误：{e}")
 
 def read_txt_to_array(file_name):
     try:
         with open(file_name, 'r', encoding='utf-8') as file:
             lines = file.readlines()
-            lines = [line.strip() for line in lines]
-            return lines
+            return [line.strip() for line in lines]
     except FileNotFoundError:
-        print(f"File '{file_name}' not found.")
+        print(f"文件 '{file_name}' 未找到。")
         return []
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"发生错误：{e}")
         return []
 
 # 读取字典文件
@@ -144,19 +113,19 @@ mx_dictionary = read_txt_to_array('明星.txt')
 ztp_dictionary = read_txt_to_array('主题片.txt')
 zy_dictionary = read_txt_to_array('综艺频道.txt')
 
-# 处理每个URL
+# 处理每个 URL
 for url in urls:
     print(f"处理URL: {url}")
     process_url(url)
     print(f"当前其他行数: {len(other_lines)}")
 
-# 根据内容生成 all_lines，只包含有内容的分类
-all_lines = ["更新时间,#genre#"] + [datetime.now().strftime("%Y%m%d") + ",http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8"] + ['\n']
+# 根据内容生成 all_lines
+all_lines = ["更新时间,#genre#"] + ['\n']
 
 if sh_lines:
     all_lines += ["上海频道,#genre#"] + sorted(set(sh_lines)) + ['\n']
 if ys_lines:
-    all_lines += ["央视频道,#genre#"] + sorted(sorted(set(ys_lines), key=lambda x: extract_number(x)), key=custom_sort) + ['\n']
+    all_lines += ["央视频道,#genre#"] + sorted(set(ys_lines)) + ['\n']
 if ws_lines:
     all_lines += ["卫视频道,#genre#"] + sorted(set(ws_lines)) + ['\n']
 if ty_lines:
@@ -182,9 +151,11 @@ if xq_lines:
 if js_lines:
     all_lines += ["解说频道,#genre#"] + sorted(set(js_lines)) + ['\n']
 if zy_lines:
-    all_lines += ["综艺频道,#genre#"] + sorted(set(zy_lines))
+    all_lines += ["综艺频道,#genre#"] + sorted(set(zy_lines)) + ['\n']
+if cw_lines:
+    all_lines += ["春晚,#genre#"] + sorted(set(cw_lines))
 
-# 保存文件
+# 保存输出到文件
 output_file = "merged_output.txt"
 others_file = "others_output.txt"
 othersA_file = "othersa_output.txt"
@@ -200,9 +171,8 @@ try:
             f.write(line + '\n')
     print(f"Others已保存到文件: {others_file}")
 
-    # 将 all_lines 和 other_lines 合并写入 othersA_file
     with open(othersA_file, 'w', encoding='utf-8') as f:
-        for line in all_lines + other_lines:  # 合并写入
+        for line in all_lines + other_lines:
             f.write(line + '\n')
     print(f"OthersA已保存到文件: {othersA_file}")
 except Exception as e:
