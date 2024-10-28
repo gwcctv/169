@@ -28,7 +28,7 @@ jobs:
         python -m pip install --upgrade pip
         
     - name: Run Python script
-      run: python main1.py
+      run: python main.py
 
     - name: Convert TXT to M3U
       run: |
