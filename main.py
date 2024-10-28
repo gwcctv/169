@@ -215,7 +215,7 @@ try:
 
     # 将 all_lines 和 other_lines 合并写入 othersA_file
     with open(othersA_file, 'w', encoding='utf-8') as f:
-        for line in all_lines + other_lines:
+        for line in all_lines:
             f.write(line + '\n')
     print(f"OthersA已保存到文件: {othersA_file}")
 except Exception as e:
