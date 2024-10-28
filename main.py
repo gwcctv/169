@@ -200,6 +200,7 @@ if cw_lines:
 
 output_file = "merged_output.txt"
 others_file = "others_output.txt"
+othersA_file = "othersa_output.txt"
 
 try:
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -212,5 +213,10 @@ try:
             f.write(line + '\n')
     print(f"Others已保存到文件: {others_file}")
 
+    # 将 all_lines 和 other_lines 合并写入 othersA_file
+    with open(othersA_file, 'w', encoding='utf-8') as f:
+        for line in all_lines + other_lines:
+            f.write(line + '\n')
+    print(f"OthersA已保存到文件: {othersA_file}")
 except Exception as e:
     print(f"保存文件时发生错误：{e}")
